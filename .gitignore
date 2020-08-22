@@ -1,0 +1,16 @@
+# python
+__pycache__/
+*.pyc
+
+# builds
+*.egg-info/
+.eggs/
+wheels/
+build/
+sdist/
+dist/
+lib/
+
+# request cache
+cache/*
+!cache/.gitkeep
