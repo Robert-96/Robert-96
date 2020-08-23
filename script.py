@@ -50,15 +50,30 @@ def generate_language_markdown(top_languages):
     return markdown
 
 
+def get_latest_repo():
+    repos_raw = requests.get('https://api.github.com/users/{}/repos'.format(USER))
+    repos = repos_raw.json()
+    repos = filter(lambda x: x.get('name') != USER, repos)
+
+    return max(repos, key=lambda x: x.get('updated_at'))
+
+
 def update_readme():
     top_languages = compute_top_languages(*get_languages())
     top_languages_markdown = generate_language_markdown(top_languages)
+
+    latest_repo = get_latest_repo()
 
     with open(README_TEMPLATE, 'r') as fp:
         readme = fp.read()
 
     with  open('README.md', 'w') as fp:
-        fp.write(readme.format(TOP_LANGUAGES=top_languages_markdown))
+        fp.write(readme.format(
+            TOP_LANGUAGES=top_languages_markdown,
+            LATEST_REPO=latest_repo.get('name'),
+            LATEST_REPO_URL=latest_repo.get('html_url'),
+            LATEST_LANGUAGE=latest_repo.get('language', 'Python')
+        ))
 
 
 if __name__ == "__main__":
