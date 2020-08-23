@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [`ember-build-time-data`](https://github.com/Robert-96/ember-build-time-data)
-- 🌱 I’m currently learning JavaScript
+- I’m currently working on [`ember-build-time-data`](https://github.com/Robert-96/ember-build-time-data)
+- I’m currently learning JavaScript
 
 ### Top Languages
 
@@ -27,4 +27,3 @@ Here are some ideas to get you started:
 * Dockerfile: 7.9%
 * HTML: 5.67%
 * JavaScript: 1.87%
-

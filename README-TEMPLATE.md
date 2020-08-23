@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [`{LATEST_REPO}`]({LATEST_REPO_URL})
-- 🌱 I’m currently learning {LATEST_LANGUAGE}
+- I’m currently working on [`{LATEST_REPO}`]({LATEST_REPO_URL})
+- I’m currently learning {LATEST_LANGUAGE}
 
 ### Top Languages
 
