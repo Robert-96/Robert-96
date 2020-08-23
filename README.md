@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Top Languages
+
+* Shell: 65.13%
+* CSS: 33.82%
+* Python: 24.64%
+* Java: 14.83%
+* Dockerfile: 7.81%
+* HTML: 5.6%
+* JavaScript: 1.85%
+
