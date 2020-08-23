@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Top Languages
+- 🔭 I’m currently working on [`ember-build-time-data`](https://github.com/Robert-96/ember-build-time-data)
+- 🌱 I’m currently learning JavaScript
 
-* Shell: 65.13%
-* CSS: 33.82%
-* Python: 24.64%
-* Java: 14.83%
-* Dockerfile: 7.81%
-* HTML: 5.6%
-* JavaScript: 1.85%
+### Top Languages
+
+* Shell: 65.93%
+* CSS: 34.23%
+* Python: 19.15%
+* Java: 15.01%
+* Dockerfile: 7.9%
+* HTML: 5.67%
+* JavaScript: 1.87%
 
