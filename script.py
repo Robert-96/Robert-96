@@ -2,12 +2,14 @@ import os
 import json
 import logging
 from collections import defaultdict
+from string import Template
 
 import requests
 import requests_cache
 from dotenv import load_dotenv
 
 load_dotenv()
+requests_cache.install_cache('cache/github')
 
 LOG_FILE = os.getenv("LOG_FILE", None)
 LOG_LEVEL = os.getenv("LOG_LEVEL", 'INFO')
@@ -18,8 +20,6 @@ README_TEMPLATE = 'README-TEMPLATE.md'
 
 logging.basicConfig(filename=LOG_FILE, format=LOG_FORMAT, level=LOG_LEVEL)
 logger = logging.getLogger()
-
-requests_cache.install_cache('cache/github')
 
 
 def get_repos():
@@ -91,15 +91,18 @@ def update_readme():
     latest_repo = get_latest_repo()
 
     with open(README_TEMPLATE, 'r') as fp:
-        readme = fp.read()
+        readme_template = fp.read()
 
     with  open('README.md', 'w') as fp:
-        fp.write(readme.format(
-            TOP_LANGUAGES=top_languages_markdown,
-            LATEST_REPO=latest_repo.get('name'),
-            LATEST_REPO_URL=latest_repo.get('html_url'),
-            LATEST_LANGUAGE=latest_repo.get('language', 'Python')
-        ))
+        template = Template(readme_template)
+        readme = template.safe_substitute({
+            'TOP_LANGUAGES': top_languages_markdown,
+            'LATEST_REPO': latest_repo.get('name'),
+            'LATEST_REPO_URL': latest_repo.get('html_url'),
+            'LATEST_LANGUAGE': latest_repo.get('language', 'Python')
+        })
+
+        fp.write(readme)
 
 
 if __name__ == "__main__":
