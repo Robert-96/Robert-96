@@ -11,6 +11,10 @@ from dotenv import load_dotenv
 load_dotenv()
 requests_cache.install_cache('cache/github')
 
+print("--------------")
+print("GITHUB_ACTOR", os.getenv("GITHUB_ACTOR"))
+print("--------------")
+
 LOG_FILE = os.getenv("LOG_FILE", None)
 LOG_LEVEL = os.getenv("LOG_LEVEL", 'INFO')
 LOG_FORMAT = os.getenv("LOG_FORMAT", '%(name)s:%(funcName)s:%(levelname)s - %(message)s')
