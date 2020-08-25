@@ -98,7 +98,7 @@ def update_readme():
     with open(README_TEMPLATE, 'r') as fp:
         readme_template = fp.read()
 
-    with  open(README, 'w') as fp:
+    with open(README, 'w') as fp:
         template = Template(readme_template)
         readme = template.safe_substitute({
             'TOP_LANGUAGES': top_languages_markdown,
