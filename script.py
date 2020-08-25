@@ -22,9 +22,22 @@ logger = logging.getLogger()
 requests_cache.install_cache('cache/github')
 
 
-def get_languages():
+def get_repos():
     repos_raw = requests.get('https://api.github.com/users/{}/repos'.format(USER))
-    repos = repos_raw.json()
+    return repos_raw.json()
+
+
+def get_latest_repo():
+    repos = filter(lambda x: x.get('name') != USER, get_repos())
+
+    latest_repo = max(repos, key=lambda x: x.get('updated_at'))
+    logger.info(latest_repo['name'])
+
+    return latest_repo
+
+
+def get_languages():
+    repos = get_repos()
 
     total = 0
     languages = defaultdict(int)
@@ -69,17 +82,6 @@ def generate_language_markdown(top_languages):
     logger.info(markdown)
 
     return markdown
-
-
-def get_latest_repo():
-    repos_raw = requests.get('https://api.github.com/users/{}/repos'.format(USER))
-    repos = repos_raw.json()
-    repos = filter(lambda x: x.get('name') != USER, repos)
-
-    latest_repo = max(repos, key=lambda x: x.get('updated_at'))
-    logger.info(latest_repo['name'])
-
-    return latest_repo
 
 
 def update_readme():
