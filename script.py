@@ -11,19 +11,18 @@ from dotenv import load_dotenv
 load_dotenv()
 requests_cache.install_cache('cache/github')
 
-print("--------------")
-print("GITHUB_ACTOR", os.getenv("GITHUB_ACTOR"))
-print("--------------")
 
-LOG_FILE = os.getenv("LOG_FILE", None)
-LOG_LEVEL = os.getenv("LOG_LEVEL", 'INFO')
-LOG_FORMAT = os.getenv("LOG_FORMAT", '%(name)s:%(funcName)s:%(levelname)s - %(message)s')
+LOG_FILE = os.getenv('LOG_FILE', None)
+LOG_LEVEL = os.getenv('LOG_LEVEL', 'INFO')
+LOG_FORMAT = os.getenv('LOG_FORMAT', '%(name)s:%(funcName)s:%(levelname)s - %(message)s')
 
-USER = 'Robert-96'
+USER = os.getenv('GITHUB_ACTOR', 'Robert-96')
 README_TEMPLATE = 'README-TEMPLATE.md'
 
 logging.basicConfig(filename=LOG_FILE, format=LOG_FORMAT, level=LOG_LEVEL)
 logger = logging.getLogger()
+
+logger.info("USER: {}".format(USER))
 
 
 def get_repos():
