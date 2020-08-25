@@ -14,3 +14,9 @@ lib/
 # request cache
 cache/*
 !cache/.gitkeep
+
+# logs
+*.log
+
+# env
+.env

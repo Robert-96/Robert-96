@@ -1,13 +1,25 @@
+import os
 import json
+import logging
 from collections import defaultdict
 
 import requests
 import requests_cache
+from dotenv import load_dotenv
 
-requests_cache.install_cache('cache/github')
+load_dotenv()
+
+LOG_FILE = os.getenv("LOG_FILE", None)
+LOG_LEVEL = os.getenv("LOG_LEVEL", 'INFO')
+LOG_FORMAT = os.getenv("LOG_FORMAT", '%(name)s:%(funcName)s:%(levelname)s - %(message)s')
 
 USER = 'Robert-96'
 README_TEMPLATE = 'README-TEMPLATE.md'
+
+logging.basicConfig(filename=LOG_FILE, format=LOG_FORMAT, level=LOG_LEVEL)
+logger = logging.getLogger()
+
+requests_cache.install_cache('cache/github')
 
 
 def get_languages():
@@ -20,6 +32,11 @@ def get_languages():
     for repo in repos:
         repo_languages_raw = requests.get(repo['languages_url'])
         repo_languages = repo_languages_raw.json()
+
+        logger.info("{}: {}".format(
+            repo['name'],
+            json.dumps(repo_languages, sort_keys=True, indent=4)
+        ))
 
         for language, value in repo_languages.items():
             total += value
@@ -38,6 +55,8 @@ def compute_top_languages(total, languages):
         })
 
     top_languages.sort(key=lambda x: x.get('percentage', 0), reverse=True)
+    logger.info(json.dumps(top_languages, sort_keys=True, indent=4))
+
     return top_languages
 
 
@@ -47,6 +66,8 @@ def generate_language_markdown(top_languages):
     for language in top_languages:
         markdown += '* {}: {}%\n'.format(language.get('name'), language.get('percentage'))
 
+    logger.info(markdown)
+
     return markdown
 
 
@@ -55,7 +76,10 @@ def get_latest_repo():
     repos = repos_raw.json()
     repos = filter(lambda x: x.get('name') != USER, repos)
 
-    return max(repos, key=lambda x: x.get('updated_at'))
+    latest_repo = max(repos, key=lambda x: x.get('updated_at'))
+    logger.info(latest_repo['name'])
+
+    return latest_repo
 
 
 def update_readme():
