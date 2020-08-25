@@ -20,3 +20,6 @@ cache/*
 
 # env
 .env
+
+# tests
+TEST-README.md

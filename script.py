@@ -11,18 +11,20 @@ from dotenv import load_dotenv
 load_dotenv()
 requests_cache.install_cache('cache/github')
 
-
 LOG_FILE = os.getenv('LOG_FILE', None)
 LOG_LEVEL = os.getenv('LOG_LEVEL', 'INFO')
 LOG_FORMAT = os.getenv('LOG_FORMAT', '%(name)s:%(funcName)s:%(levelname)s - %(message)s')
 
 USER = os.getenv('GITHUB_ACTOR', 'Robert-96')
-README_TEMPLATE = 'README-TEMPLATE.md'
+README_TEMPLATE = os.getenv('README_TEMPLATE', 'README-TEMPLATE.md')
+README = os.getenv('README', 'README.md')
 
 logging.basicConfig(filename=LOG_FILE, format=LOG_FORMAT, level=LOG_LEVEL)
 logger = logging.getLogger()
 
 logger.info("USER: {}".format(USER))
+logger.info("README_TEMPLATE: {}".format(README_TEMPLATE))
+logger.info("README: {}".format(README))
 
 
 def get_repos():
@@ -96,7 +98,7 @@ def update_readme():
     with open(README_TEMPLATE, 'r') as fp:
         readme_template = fp.read()
 
-    with  open('README.md', 'w') as fp:
+    with  open(README, 'w') as fp:
         template = Template(readme_template)
         readme = template.safe_substitute({
             'TOP_LANGUAGES': top_languages_markdown,
