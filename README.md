@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### Top Languages
 
-* Shell: 67.0%
-* CSS: 34.79%
-* Java: 15.25%
-* Python: 14.83%
-* Dockerfile: 8.03%
-* HTML: 5.76%
+* Shell: 66.9%
+* CSS: 34.73%
+* Java: 15.23%
+* Python: 15.16%
+* Dockerfile: 8.02%
+* HTML: 5.75%
 * JavaScript: 1.9%
 
