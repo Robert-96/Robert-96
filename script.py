@@ -69,7 +69,7 @@ def compute_top_languages(total, languages):
     for language, value in languages.items():
         top_languages.append({
             'name': language,
-            'percentage': round(total / value, 2)
+            'percentage': round((value / total) * 100, 2)
         })
 
     top_languages.sort(key=lambda x: x.get('percentage', 0), reverse=True)
