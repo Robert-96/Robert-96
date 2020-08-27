@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ${TOP_LANGUAGES}
 
-Updated: ${TIME_STAMP}
+***Updated**: ${TIME_STAMP}*
