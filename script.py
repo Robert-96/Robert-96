@@ -2,6 +2,7 @@ import os
 import json
 import logging
 from collections import defaultdict
+from datetime import datetime
 from string import Template
 
 import requests
@@ -15,6 +16,8 @@ LOG_FILE = os.getenv('LOG_FILE', None)
 LOG_LEVEL = os.getenv('LOG_LEVEL', 'INFO')
 LOG_FORMAT = os.getenv('LOG_FORMAT', '%(name)s:%(funcName)s:%(levelname)s - %(message)s')
 
+DATE_TIME_FORMAT = os.getenv('DATE_TIME_FORMAT', '%B %d, %Y %H:%M:%S')
+
 USER = os.getenv('GITHUB_ACTOR', 'Robert-96')
 README_TEMPLATE = os.getenv('README_TEMPLATE', 'README-TEMPLATE.md')
 README = os.getenv('README', 'README.md')
@@ -25,6 +28,11 @@ logger = logging.getLogger()
 logger.info("USER: {}".format(USER))
 logger.info("README_TEMPLATE: {}".format(README_TEMPLATE))
 logger.info("README: {}".format(README))
+
+
+def get_time_stamp():
+    now = datetime.now()
+    return now.strftime(DATE_TIME_FORMAT)
 
 
 def get_repos():
@@ -90,6 +98,8 @@ def generate_language_markdown(top_languages):
 
 
 def update_readme():
+    time_stamp = get_time_stamp()
+
     top_languages = compute_top_languages(*get_languages())
     top_languages_markdown = generate_language_markdown(top_languages)
 
@@ -101,6 +111,7 @@ def update_readme():
     with open(README, 'w') as fp:
         template = Template(readme_template)
         readme = template.safe_substitute({
+            'TIME_STAMP': time_stamp,
             'TOP_LANGUAGES': top_languages_markdown,
             'LATEST_REPO': latest_repo.get('name'),
             'LATEST_REPO_URL': latest_repo.get('html_url'),

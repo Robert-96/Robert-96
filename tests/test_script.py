@@ -1,6 +1,16 @@
-from script import compute_top_languages, generate_language_markdown
+import unittest.mock as mock
+from datetime import datetime
+from script import get_time_stamp, compute_top_languages, generate_language_markdown
 
 import pytest
+
+
+@mock.patch('script.datetime')
+def test_get_time_stamp(datetime_mock):
+    datetime_mock.now = mock.Mock()
+    datetime_mock.now.return_value = datetime(2020, 8, 24, 0, 0, 0, 0)
+
+    assert get_time_stamp() == 'August 24, 2020 00:00:00'
 
 
 @pytest.mark.parametrize(

@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 ### Top Languages
 
 ${TOP_LANGUAGES}
+
+Updated: ${TIME_STAMP}
