@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I’m currently working on [`ember-build-time-data`](https://github.com/Robert-96/ember-build-time-data)
+- I’m currently working on [`2048`](https://github.com/Robert-96/2048)
 - I’m currently learning JavaScript
 
 ### Top Languages
 
-* JavaScript: 48.87%
-* HTML: 16.14%
-* Python: 13.24%
-* Dockerfile: 11.59%
-* Java: 6.1%
-* CSS: 2.67%
-* Shell: 1.39%
+* JavaScript: 67.31%
+* HTML: 13.28%
+* Python: 6.64%
+* Dockerfile: 5.81%
+* CSS: 3.2%
+* Java: 3.06%
+* Shell: 0.7%
 
 
-***Updated**: September 08, 2020 11:06:31*
+***Updated**: September 09, 2020 11:06:39*
