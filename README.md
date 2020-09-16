@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I’m currently working on [`2048`](https://github.com/Robert-96/2048)
-- I’m currently learning JavaScript
+- I’m currently working on [`profile-readme`](https://github.com/Robert-96/profile-readme)
+- I’m currently learning None
 
 ### Top Languages
 
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 * Shell: 0.69%
 
 
-***Updated**: September 15, 2020 11:06:32*
+***Updated**: September 16, 2020 11:06:28*
