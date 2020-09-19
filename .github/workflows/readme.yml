@@ -18,6 +18,7 @@ jobs:
           fetch-depth: 1
       - name: Update README.md
         run: |
+          python3 -m pip install setuptools
           python3 -m pip install -U git+https://github.com/Robert-96/profile-readme.git
           python3 -m profile-readme update
       - name: Deploy
