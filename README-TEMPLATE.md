@@ -1,25 +1,32 @@
-### Hi there 👋
+<h2>Hi there 👋</h2>
 
-<!--
-**Robert-96/Robert-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- This is just the base template, feel free to change it. -->
 
-Here are some ideas to get you started:
+<p>
+    I'm a developer based in <i>{{ USER.location }}</i>
+    and I'm on GitHub since {{ USER.created_at|datetimeformat('%Y') }}
+    with <a href="https://github.com/{{ USER.login }}?tab=repositories">{{ USER.public_repos }} public repositories</a>
+    and <a href="https://github.com/{{ USER.login }}?tab=followers">{{ USER.followers }} followers</a>.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Top Languages</h3>
 
-- I’m currently working on [`${LATEST_REPO}`](${LATEST_REPO_URL})
-- I’m currently learning ${LATEST_LANGUAGE}
+<ul>
+{% for language in TOP_LANGUAGES %}
+    <li>{{ language.name }}: {{ language.percentage }}%</li>
+{% endfor %}
+</ul>
 
-### Top Languages
+{% if GISTS %}
+<h3>Pupular Gists</h3>
 
-${TOP_LANGUAGES}
+<ul>
+{% for gist in GISTS[:5] %}
+    {% if gist.description %}
+        <li><a href="{{ gist.html_url }}">{{ gist.description }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+{% endif %}
 
-***Updated**: ${TIME_STAMP}*
+<p><strong>Updated</strong>: <i>{{ TIME_STAMP|datetimeformat }}</i></p>
