@@ -1,32 +1,30 @@
-### Hi there 👋
+<h2>Hi there 👋</h2>
 
-<!--
-**Robert-96/Robert-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- This is just the base template, feel free to change it. -->
 
-Here are some ideas to get you started:
+<p>
+    I'm a developer based in <i>Cluj, Cluj-Napoca</i>
+    and I'm on GitHub since 2014
+    with <a href="https://github.com/Robert-96?tab=repositories">11 public repositories</a>
+    and <a href="https://github.com/Robert-96?tab=followers">2 followers</a>.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Top Languages</h3>
 
-- I’m currently working on [`profile-readme`](https://github.com/Robert-96/profile-readme)
-- I’m currently learning None
+<ul>
+    <li>JavaScript: 50.0%</li>
+    <li>Dockerfile: 37.5%</li>
+    <li>Python: 12.5%</li>
+</ul>
 
-### Top Languages
+<h3>Pupular Gists</h3>
 
-* JavaScript: 67.53%
-* HTML: 13.19%
-* Python: 6.6%
-* Dockerfile: 5.78%
-* CSS: 3.18%
-* Java: 3.04%
-* Shell: 0.69%
+<ul>
+        <li><a href="https://gist.github.com/fd31c707ba9600dd8a92678d37743f92">Deploy an Ember.js app on GitHub Pages with TravisCI</a></li>
+        <li><a href="https://gist.github.com/9b228156dda87c1b314bfe4790a7b45a">Get URL Parameters with JavaScript</a></li>
+        <li><a href="https://gist.github.com/048fddefc20e6860aeca6949a2443adf">Github Markdown Cheat Sheet</a></li>
+        <li><a href="https://gist.github.com/5591eaa07cb56500505a5daa747e2d0b">Ember.Js: Build a Markdown component with ShowdownJs</a></li>
+        <li><a href="https://gist.github.com/4d85dcafe05d9e5e72d813ae7107cc47">Ember.Js: Installing Tailwind CSS</a></li>
+</ul>
 
-
-***Updated**: September 19, 2020 11:06:24*
+<p><strong>Updated</strong>: <i>September 19, 2020 15:38:33</i></p>
