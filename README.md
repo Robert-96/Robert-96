@@ -27,4 +27,4 @@
         <li><a href="https://gist.github.com/4d85dcafe05d9e5e72d813ae7107cc47">Ember.Js: Installing Tailwind CSS</a></li>
 </ul>
 
-<p><strong>Updated</strong>: <i>September 22, 2020 11:17:27</i></p>
+<p><strong>Updated</strong>: <i>September 23, 2020 11:17:26</i></p>
