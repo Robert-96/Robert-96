@@ -5,7 +5,7 @@
 <p>
     I'm a developer based in <i>Cluj, Cluj-Napoca</i>
     and I'm on GitHub since 2014
-    with <a href="https://github.com/Robert-96?tab=repositories">11 public repositories</a>
+    with <a href="https://github.com/Robert-96?tab=repositories">12 public repositories</a>
     and <a href="https://github.com/Robert-96?tab=followers">2 followers</a>.
 </p>
 
@@ -27,4 +27,4 @@
         <li><a href="https://gist.github.com/4d85dcafe05d9e5e72d813ae7107cc47">Ember.Js: Installing Tailwind CSS</a></li>
 </ul>
 
-<p><strong>Updated</strong>: <i>September 25, 2020 11:17:41</i></p>
+<p><strong>Updated</strong>: <i>September 26, 2020 11:17:20</i></p>
