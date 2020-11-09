@@ -28,4 +28,4 @@
         <li><a href="https://gist.github.com/5591eaa07cb56500505a5daa747e2d0b">Ember.Js: Build a Markdown component with ShowdownJs</a></li>
 </ul>
 
-<p><strong>Updated</strong>: <i>November 02, 2020 12:20:09</i></p>
+<p><strong>Updated</strong>: <i>November 09, 2020 12:22:11</i></p>
