@@ -14,8 +14,7 @@
 <ul>
     <li>JavaScript: 44.44%</li>
     <li>Dockerfile: 33.33%</li>
-    <li>HTML: 11.11%</li>
-    <li>Python: 11.11%</li>
+    <li>Python: 22.22%</li>
 </ul>
 
 <h3>Pupular Gists</h3>
@@ -28,4 +27,4 @@
         <li><a href="https://gist.github.com/5591eaa07cb56500505a5daa747e2d0b">Ember.Js: Build a Markdown component with ShowdownJs</a></li>
 </ul>
 
-<p><strong>Updated</strong>: <i>November 09, 2020 12:22:11</i></p>
+<p><strong>Updated</strong>: <i>November 16, 2020 12:19:22</i></p>
