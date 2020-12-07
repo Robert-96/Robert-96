@@ -19,7 +19,7 @@ jobs:
       - name: Update README.md
         run: |
           python3 -m pip install setuptools
-          python3 -m pip install -U git+https://github.com/Robert-96/profile-readme.git
+          python3 -m pip install profile-readme
           python3 -m profile_readme render
       - name: Deploy
         run: |
