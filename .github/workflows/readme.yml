@@ -19,8 +19,8 @@ jobs:
       - name: Update README.md
         run: |
           python3 -m pip install setuptools
-          python3 -m pip install profile-readme
-          python3 -m profile_readme render
+          python3 -m pip install -r requirements.txt
+          python3 build.py
       - name: Deploy
         run: |
           git config user.name "${GITHUB_ACTOR}"
