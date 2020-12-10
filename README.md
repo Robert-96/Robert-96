@@ -12,10 +12,10 @@
 <h3>Top Languages</h3>
 
 <ul>
-    <li>JavaScript: 44.44%</li>
-    <li>Dockerfile: 22.22%</li>
-    <li>Python: 22.22%</li>
-    <li>Shell: 11.11%</li>
+    <li>JavaScript: 40.0%</li>
+    <li>Python: 30.0%</li>
+    <li>Dockerfile: 20.0%</li>
+    <li>Shell: 10.0%</li>
 </ul>
 
 <h3>Pupular Gists</h3>
@@ -28,4 +28,4 @@
         <li><a href="https://gist.github.com/9b228156dda87c1b314bfe4790a7b45a">Get URL Parameters with JavaScript</a></li>
 </ul>
 
-<p><strong>Updated</strong>: <i>December 10, 2020 21:31:28</i></p>
+<p><strong>Updated</strong>: <i>December 10, 2020 22:00:05</i></p>
