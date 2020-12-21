@@ -28,4 +28,4 @@
         <li><a href="https://gist.github.com/fd31c707ba9600dd8a92678d37743f92">Deploy an Ember.js app on GitHub Pages with TravisCI</a></li>
 </ul>
 
-<p><strong>Updated</strong>: <i>December 14, 2020 12:27:16</i></p>
+<p><strong>Updated</strong>: <i>December 21, 2020 12:32:10</i></p>
