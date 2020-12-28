@@ -5,17 +5,17 @@
 <p>
     I'm a developer based in <i>Cluj, Cluj-Napoca</i>
     and I'm on GitHub since 2014
-    with <a href="https://github.com/Robert-96?tab=repositories">15 public repositories</a>
+    with <a href="https://github.com/Robert-96?tab=repositories">16 public repositories</a>
     and <a href="https://github.com/Robert-96?tab=followers">2 followers</a>.
 </p>
 
 <h3>Top Languages</h3>
 
 <ul>
-    <li>JavaScript: 41.67%</li>
-    <li>Python: 25.0%</li>
-    <li>Dockerfile: 16.67%</li>
-    <li>Shell: 16.67%</li>
+    <li>JavaScript: 38.46%</li>
+    <li>Python: 30.77%</li>
+    <li>Dockerfile: 15.38%</li>
+    <li>Shell: 15.38%</li>
 </ul>
 
 <h3>Pupular Gists</h3>
@@ -28,4 +28,4 @@
         <li><a href="https://gist.github.com/fd31c707ba9600dd8a92678d37743f92">Deploy an Ember.js app on GitHub Pages with TravisCI</a></li>
 </ul>
 
-<p><strong>Updated</strong>: <i>December 21, 2020 12:32:10</i></p>
+<p><strong>Updated</strong>: <i>December 28, 2020 12:31:43</i></p>
