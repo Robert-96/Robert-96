@@ -5,7 +5,7 @@
 <p>
     I'm a developer based in <i>Cluj, Cluj-Napoca</i>
     and I'm on GitHub since 2014
-    with <a href="https://github.com/Robert-96?tab=repositories">16 public repositories</a>
+    with <a href="https://github.com/Robert-96?tab=repositories">17 public repositories</a>
     and <a href="https://github.com/Robert-96?tab=followers">2 followers</a>.
 </p>
 
@@ -28,4 +28,4 @@
         <li><a href="https://gist.github.com/fd31c707ba9600dd8a92678d37743f92">Deploy an Ember.js app on GitHub Pages with TravisCI</a></li>
 </ul>
 
-<p><strong>Updated</strong>: <i>January 04, 2021 12:34:09</i></p>
+<p><strong>Updated</strong>: <i>January 11, 2021 12:41:12</i></p>
