@@ -21,11 +21,11 @@
 <h3>Pupular Gists</h3>
 
 <ul>
+        <li><a href="https://gist.github.com/7c6aceafbcffe668a35813c18df4c63e">AltWalker - Requirements Example Model</a></li>
         <li><a href="https://gist.github.com/87120f49e3237210012498f2c82b5cf5">WIP: RegEx Cheat Sheet</a></li>
         <li><a href="https://gist.github.com/0281c940b2c105392489c567bf12c445">ANSI Color Sequences</a></li>
         <li><a href="https://gist.github.com/519e12b79853a6f6eb3a0ab2c98cc483">WIP: VIM Cheat Sheet</a></li>
         <li><a href="https://gist.github.com/e7a57356ab4ec7d1aea50aba04bfde76">Add meta tags for social media with HtmlWebpackPlugin</a></li>
-        <li><a href="https://gist.github.com/fd31c707ba9600dd8a92678d37743f92">Deploy an Ember.js app on GitHub Pages with TravisCI</a></li>
 </ul>
 
-<p><strong>Updated</strong>: <i>January 11, 2021 12:41:12</i></p>
+<p><strong>Updated</strong>: <i>January 18, 2021 12:53:00</i></p>
