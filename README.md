@@ -12,10 +12,10 @@
 <h3>Top Languages</h3>
 
 <ul>
-    <li>JavaScript: 38.46%</li>
-    <li>Python: 30.77%</li>
-    <li>Dockerfile: 15.38%</li>
-    <li>Shell: 15.38%</li>
+    <li>JavaScript: 35.71%</li>
+    <li>Python: 35.71%</li>
+    <li>Dockerfile: 14.29%</li>
+    <li>Shell: 14.29%</li>
 </ul>
 
 <h3>Pupular Gists</h3>
@@ -28,4 +28,4 @@
         <li><a href="https://gist.github.com/e7a57356ab4ec7d1aea50aba04bfde76">Add meta tags for social media with HtmlWebpackPlugin</a></li>
 </ul>
 
-<p><strong>Updated</strong>: <i>January 25, 2021 12:51:32</i></p>
+<p><strong>Updated</strong>: <i>February 01, 2021 12:32:30</i></p>
