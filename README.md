@@ -5,17 +5,17 @@
 <p>
     I'm a developer based in <i>Cluj, Cluj-Napoca</i>
     and I'm on GitHub since 2014
-    with <a href="https://github.com/Robert-96?tab=repositories">18 public repositories</a>
+    with <a href="https://github.com/Robert-96?tab=repositories">21 public repositories</a>
     and <a href="https://github.com/Robert-96?tab=followers">2 followers</a>.
 </p>
 
 <h3>Top Languages</h3>
 
 <ul>
-    <li>JavaScript: 35.71%</li>
-    <li>Python: 35.71%</li>
-    <li>Dockerfile: 14.29%</li>
-    <li>Shell: 14.29%</li>
+    <li>Python: 37.5%</li>
+    <li>JavaScript: 31.25%</li>
+    <li>Shell: 18.75%</li>
+    <li>Dockerfile: 12.5%</li>
 </ul>
 
 <h3>Pupular Gists</h3>
@@ -28,4 +28,4 @@
         <li><a href="https://gist.github.com/e7a57356ab4ec7d1aea50aba04bfde76">Add meta tags for social media with HtmlWebpackPlugin</a></li>
 </ul>
 
-<p><strong>Updated</strong>: <i>March 22, 2021 12:29:16</i></p>
+<p><strong>Updated</strong>: <i>March 29, 2021 13:15:10</i></p>
