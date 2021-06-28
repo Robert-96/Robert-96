@@ -21,7 +21,7 @@
 <h3>DEV.TO Posts</h3>
 
 <ul>
-{% for post in DEVTO[:5] %}
+{% for post in DEVTO %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>

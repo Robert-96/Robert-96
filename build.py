@@ -11,7 +11,7 @@ def get_devto_posts(user):
     data = response.json()
     posts = []
 
-    for post in data:
+    for post in data[:5]:
         posts.append({
             'title': post.get('title'),
             'url': post.get('url')
