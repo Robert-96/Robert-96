@@ -23,31 +23,8 @@
 <h3>DEV.TO Posts</h3>
 
 <ul>
-    <li><a href=""><built-in method title of str object at 0x7fa20df24b70></a></li>
-    <li><a href=""><built-in method title of str object at 0x7fa20df638b0></a></li>
-    <li><a href=""><built-in method title of str object at 0x7fa20df630b0></a></li>
-    <li><a href=""><built-in method title of str object at 0x7fa20df13a30></a></li>
-    <li><a href=""><built-in method title of str object at 0x7fa20df226c0></a></li>
-    <li><a href=""><built-in method title of str object at 0x7fa20df1d670></a></li>
-    <li><a href=""><built-in method title of str object at 0x7fa20df1d7b0></a></li>
-    <li><a href=""><built-in method title of str object at 0x7fa20df1d6f0></a></li>
-    <li><a href=""><built-in method title of str object at 0x7fa20df1d4f0></a></li>
-    <li><a href=""><built-in method title of str object at 0x7fa20df22670></a></li>
-    <li><a href=""><built-in method title of str object at 0x7fa20df6e2f0></a></li>
-    <li><a href=""><built-in method title of str object at 0x7fa20df22e90></a></li>
-    <li><a href=""><built-in method title of str object at 0x7fa20df22710></a></li>
-    <li><a href=""><built-in method title of str object at 0x7fa20df6e0b0></a></li>
-    <li><a href=""><built-in method title of str object at 0x7fa20df6e730></a></li>
-    <li><a href=""><built-in method title of str object at 0x7fa20df35e30></a></li>
-    <li><a href=""><built-in method title of str object at 0x7fa20df35db0></a></li>
-    <li><a href=""><built-in method title of str object at 0x7fa20df0eaf0></a></li>
-    <li><a href=""><built-in method title of str object at 0x7fa20df0e830></a></li>
-    <li><a href=""><built-in method title of str object at 0x7fa20df0ea30></a></li>
-    <li><a href=""><built-in method title of str object at 0x7fa20df0e7f0></a></li>
-    <li><a href=""><built-in method title of str object at 0x7fa20df22e40></a></li>
-    <li><a href=""><built-in method title of str object at 0x7fa20df54d70></a></li>
-    <li><a href=""><built-in method title of str object at 0x7fa20df20e30></a></li>
-    <li><a href=""><built-in method title of str object at 0x7fa20df20a30></a></li>
+    <li><a href="https://dev.to/robert96/cli-tools-from-the-python3-standard-library-37em">CLI tools from the Python3 Standard Library</a></li>
+    <li><a href="https://dev.to/robert96/add-meta-tags-for-social-media-with-htmlwebpackplugin-21h2">Add meta tags for social media with HtmlWebpackPlugin</a></li>
 </ul>
 
 <h3>Pupular Gists</h3>
@@ -60,4 +37,4 @@
         <li><a href="https://gist.github.com/e7a57356ab4ec7d1aea50aba04bfde76">Add meta tags for social media with HtmlWebpackPlugin</a></li>
 </ul>
 
-<p><strong>Updated</strong>: <i>June 28, 2021 00:48:30</i></p>
+<p><strong>Updated</strong>: <i>June 28, 2021 00:52:02</i></p>
