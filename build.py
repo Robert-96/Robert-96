@@ -1,15 +1,33 @@
 import os
 
+import requests
 from profile_readme import get_github_context, ProfileGenerator
 
 
-user = os.getenv('GITHUB_ACTOR', default='Robert-96')
+def get_devto_posts(user):
+    url = 'https://dev.to/api/articles?username={}'.format(user)
 
-context = get_github_context(user)
-filters = {}
+    response = requests.get(url)
+    data = response.json()
+    posts = []
+
+    for post in data:
+        posts.append({
+            'title': post.get('title'),
+            'url': post.get('url')
+        })
+
+    return post
 
 
 if __name__ == "__main__":
+    user = os.getenv('GITHUB_ACTOR', default='Robert-96')
+    devto_user = os.getenv('DEVTO_USER', default='robert96')
+
+    context = get_github_context(user)
+    context["DEVTO"] = get_devto_posts(devto_user)
+    filters = {}
+
     ProfileGenerator.render(
         template_path="README-TEMPLATE.md",
         output_path="README.md",

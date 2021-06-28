@@ -17,6 +17,16 @@
 {% endfor %}
 </ul>
 
+{% if DEVTO %}
+<h3>DEV.TO Posts</h3>
+
+<ul>
+{% for post in DEVTO[:5] %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+{% endif %}
+
 {% if GISTS %}
 <h3>Pupular Gists</h3>
 
