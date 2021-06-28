@@ -18,7 +18,8 @@ jobs:
           fetch-depth: 1
       - name: Update README.md
         run: |
-          python3 -m pip install setuptools
+          python3 -m pip install -U pip
+          python3 -m pip install setuptools wheel
           python3 -m pip install -r requirements.txt
           python3 build.py
       - name: Deploy

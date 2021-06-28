@@ -13,7 +13,7 @@
 
 <ul>
 {% for language in TOP_LANGUAGES %}
-    <li>{{ language.name }}: {{ language.percentage }}%</li>
+    <li><a href="https://github.com/search?q=user%3A{{ USER.login }}&l={{ language.name }}">{{ language.name }}</a>: {{ language.percentage }}%</li>
 {% endfor %}
 </ul>
 
