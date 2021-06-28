@@ -17,7 +17,7 @@ def get_devto_posts(user):
             'url': post.get('url')
         })
 
-    return post
+    return posts
 
 
 if __name__ == "__main__":
