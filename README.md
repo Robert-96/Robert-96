@@ -5,19 +5,19 @@
 <p>
     I'm a developer based in <i>Cluj, Cluj-Napoca</i>
     and I'm on GitHub since 2014
-    with <a href="https://github.com/Robert-96?tab=repositories">23 public repositories</a>
-    and <a href="https://github.com/Robert-96?tab=followers">1 followers</a>.
+    with <a href="https://github.com/Robert-96?tab=repositories">24 public repositories</a>
+    and <a href="https://github.com/Robert-96?tab=followers">2 followers</a>.
 </p>
 
 <h3>Top Languages</h3>
 
 <ul>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Python">Python</a>: 33.33%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=JavaScript">JavaScript</a>: 27.78%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Shell">Shell</a>: 16.67%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Dockerfile">Dockerfile</a>: 11.11%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=C#">C#</a>: 5.56%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=HTML">HTML</a>: 5.56%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Python">Python</a>: 36.84%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=JavaScript">JavaScript</a>: 26.32%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Shell">Shell</a>: 15.79%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Dockerfile">Dockerfile</a>: 10.53%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=C#">C#</a>: 5.26%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=HTML">HTML</a>: 5.26%</li>
 </ul>
 
 <h3>DEV.TO Posts</h3>
@@ -37,4 +37,4 @@
         <li><a href="https://gist.github.com/e7a57356ab4ec7d1aea50aba04bfde76">Add meta tags for social media with HtmlWebpackPlugin</a></li>
 </ul>
 
-<p><strong>Updated</strong>: <i>June 28, 2021 12:16:35</i></p>
+<p><strong>Updated</strong>: <i>July 08, 2021 21:44:20</i></p>
