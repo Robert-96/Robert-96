@@ -12,12 +12,12 @@
 <h3>Top Languages</h3>
 
 <ul>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Python">Python</a>: 36.84%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=JavaScript">JavaScript</a>: 26.32%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Shell">Shell</a>: 15.79%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Dockerfile">Dockerfile</a>: 10.53%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=C#">C#</a>: 5.26%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=HTML">HTML</a>: 5.26%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Python">Python</a>: 35.0%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=JavaScript">JavaScript</a>: 25.0%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Shell">Shell</a>: 15.0%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Dockerfile">Dockerfile</a>: 10.0%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=HTML">HTML</a>: 10.0%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=C#">C#</a>: 5.0%</li>
 </ul>
 
 <h3>DEV.TO Posts</h3>
@@ -37,4 +37,4 @@
         <li><a href="https://gist.github.com/e7a57356ab4ec7d1aea50aba04bfde76">Add meta tags for social media with HtmlWebpackPlugin</a></li>
 </ul>
 
-<p><strong>Updated</strong>: <i>August 09, 2021 12:31:19</i></p>
+<p><strong>Updated</strong>: <i>August 16, 2021 12:42:28</i></p>
