@@ -37,4 +37,4 @@
         <li><a href="https://gist.github.com/e7a57356ab4ec7d1aea50aba04bfde76">Add meta tags for social media with HtmlWebpackPlugin</a></li>
 </ul>
 
-<p><strong>Updated</strong>: <i>August 16, 2021 12:42:28</i></p>
+<p><strong>Updated</strong>: <i>August 23, 2021 12:30:40</i></p>
