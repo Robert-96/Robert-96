@@ -27,16 +27,4 @@
 </ul>
 {% endif %}
 
-{% if GISTS %}
-<h3>Pupular Gists</h3>
-
-<ul>
-{% for gist in GISTS[:5] %}
-    {% if gist.description %}
-        <li><a href="{{ gist.html_url }}">{{ gist.description }}</a></li>
-    {% endif %}
-{% endfor %}
-</ul>
-{% endif %}
-
 <p><strong>Updated</strong>: <i>{{ TIME_STAMP|datetimeformat }}</i></p>
