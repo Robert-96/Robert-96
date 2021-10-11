@@ -29,4 +29,4 @@
     <li><a href="https://dev.to/robert96/add-meta-tags-for-social-media-with-htmlwebpackplugin-21h2">Add meta tags for social media with HtmlWebpackPlugin</a></li>
 </ul>
 
-<p><strong>Updated</strong>: <i>October 04, 2021 12:30:28</i></p>
+<p><strong>Updated</strong>: <i>October 11, 2021 12:30:41</i></p>
