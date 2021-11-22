@@ -5,8 +5,8 @@
 <p>
     I'm a developer based in <i>Cluj, Cluj-Napoca</i>
     and I'm on GitHub since 2014
-    with <a href="https://github.com/Robert-96?tab=repositories">31 public repositories</a>
-    and <a href="https://github.com/Robert-96?tab=followers">5 followers</a>.
+    with <a href="https://github.com/Robert-96?tab=repositories">33 public repositories</a>
+    and <a href="https://github.com/Robert-96?tab=followers">4 followers</a>.
 </p>
 
 <h3>Top Languages</h3>
@@ -29,4 +29,4 @@
     <li><a href="https://dev.to/robert96/add-meta-tags-for-social-media-with-htmlwebpackplugin-21h2">Add meta tags for social media with HtmlWebpackPlugin</a></li>
 </ul>
 
-<p><strong>Updated</strong>: <i>November 15, 2021 12:32:23</i></p>
+<p><strong>Updated</strong>: <i>November 22, 2021 12:32:44</i></p>
