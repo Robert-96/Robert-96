@@ -12,13 +12,14 @@
 <h3>Top Languages</h3>
 
 <ul>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Python">Python</a>: 41.67%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=JavaScript">JavaScript</a>: 16.67%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Shell">Shell</a>: 12.5%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=C#">C#</a>: 8.33%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Dockerfile">Dockerfile</a>: 8.33%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=HTML">HTML</a>: 8.33%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=CSS">CSS</a>: 4.17%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Python">Python</a>: 40.0%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=JavaScript">JavaScript</a>: 16.0%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Shell">Shell</a>: 12.0%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=C#">C#</a>: 8.0%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Dockerfile">Dockerfile</a>: 8.0%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=HTML">HTML</a>: 8.0%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Vim script">Vim script</a>: 4.0%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=CSS">CSS</a>: 4.0%</li>
 </ul>
 
 <h3>DEV.TO Posts</h3>
@@ -29,4 +30,4 @@
     <li><a href="https://dev.to/robert96/add-meta-tags-for-social-media-with-htmlwebpackplugin-21h2">Add meta tags for social media with HtmlWebpackPlugin</a></li>
 </ul>
 
-<p><strong>Updated</strong>: <i>January 03, 2022 12:34:01</i></p>
+<p><strong>Updated</strong>: <i>January 10, 2022 12:34:51</i></p>
