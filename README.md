@@ -15,10 +15,10 @@
     <li><a href="https://github.com/search?q=user%3ARobert-96&l=Python">Python</a>: 40.0%</li>
     <li><a href="https://github.com/search?q=user%3ARobert-96&l=JavaScript">JavaScript</a>: 16.0%</li>
     <li><a href="https://github.com/search?q=user%3ARobert-96&l=Shell">Shell</a>: 12.0%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=C#">C#</a>: 8.0%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=C%23">C#</a>: 8.0%</li>
     <li><a href="https://github.com/search?q=user%3ARobert-96&l=Dockerfile">Dockerfile</a>: 8.0%</li>
     <li><a href="https://github.com/search?q=user%3ARobert-96&l=HTML">HTML</a>: 8.0%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Vim script">Vim script</a>: 4.0%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Vim%20script">Vim script</a>: 4.0%</li>
     <li><a href="https://github.com/search?q=user%3ARobert-96&l=CSS">CSS</a>: 4.0%</li>
 </ul>
 
@@ -30,4 +30,4 @@
     <li><a href="https://dev.to/robert96/add-meta-tags-for-social-media-with-htmlwebpackplugin-21h2">Add meta tags for social media with HtmlWebpackPlugin</a></li>
 </ul>
 
-<p><strong>Updated</strong>: <i>March 14, 2022 12:35:48</i></p>
+<p><strong>Updated</strong>: <i>March 18, 2022 21:48:38</i></p>
