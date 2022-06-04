@@ -13,7 +13,7 @@
     I made <a href="https://gitlab.com/altom/altwalker/altwalker">AltWalker</a> - an open source Model-Based Testing framework that supports running tests written in python3 and .NET/C#.
 </p>
 
-<h3>Top Languages</h3>
+<h3>Most Used Languages</h3>
 
 <ul>
     <li><a href="https://github.com/search?q=user%3ARobert-96&l=Python">Python</a>: 37.04%</li>
@@ -34,4 +34,4 @@
     <li><a href="https://dev.to/robert96/add-meta-tags-for-social-media-with-htmlwebpackplugin-21h2">Add meta tags for social media with HtmlWebpackPlugin</a></li>
 </ul>
 
-<p><strong>Updated</strong>: <i>June 04, 2022 17:17:22</i></p>
+<p><strong>Updated</strong>: <i>June 04, 2022 20:28:54</i></p>
