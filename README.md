@@ -3,23 +3,27 @@
 <!-- This is just the base template, feel free to change it. -->
 
 <p>
-    I'm a developer based in <i>Cluj, Cluj-Napoca</i>
+    I'm a Softwere Developer based in <i>Cluj, Cluj-Napoca</i>
     and I'm on GitHub since 2014
     with <a href="https://github.com/Robert-96?tab=repositories">36 public repositories</a>
-    and <a href="https://github.com/Robert-96?tab=followers">5 followers</a>.
+    and <a href="https://github.com/Robert-96?tab=followers">7 followers</a>.
+</p>
+
+<p>
+    I made <a href="https://gitlab.com/altom/altwalker/altwalker">AltWalker</a> - an open source Model-Based Testing framework that supports running tests written in python3 and .NET/C#.
 </p>
 
 <h3>Top Languages</h3>
 
 <ul>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Python">Python</a>: 38.46%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=JavaScript">JavaScript</a>: 15.38%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Shell">Shell</a>: 15.38%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=C%23">C#</a>: 7.69%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Dockerfile">Dockerfile</a>: 7.69%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=HTML">HTML</a>: 7.69%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Vim%20script">Vim script</a>: 3.85%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=CSS">CSS</a>: 3.85%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Python">Python</a>: 37.04%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=JavaScript">JavaScript</a>: 14.81%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Shell">Shell</a>: 14.81%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=HTML">HTML</a>: 11.11%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=C%23">C#</a>: 7.41%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Dockerfile">Dockerfile</a>: 7.41%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Vim%20script">Vim script</a>: 3.7%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=CSS">CSS</a>: 3.7%</li>
 </ul>
 
 <h3>DEV.TO Posts</h3>
@@ -30,4 +34,4 @@
     <li><a href="https://dev.to/robert96/add-meta-tags-for-social-media-with-htmlwebpackplugin-21h2">Add meta tags for social media with HtmlWebpackPlugin</a></li>
 </ul>
 
-<p><strong>Updated</strong>: <i>May 30, 2022 12:43:24</i></p>
+<p><strong>Updated</strong>: <i>June 04, 2022 17:04:02</i></p>
