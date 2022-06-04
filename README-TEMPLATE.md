@@ -13,7 +13,7 @@
     I made <a href="https://gitlab.com/altom/altwalker/altwalker">AltWalker</a> - an open source Model-Based Testing framework that supports running tests written in python3 and .NET/C#.
 </p>
 
-<h3>Top Languages</h3>
+<h3>Most Used Languages</h3>
 
 <ul>
 {% for language in TOP_LANGUAGES %}
