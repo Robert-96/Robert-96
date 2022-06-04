@@ -26,7 +26,7 @@
     <li><a href="https://github.com/search?q=user%3ARobert-96&l=CSS">CSS</a>: 3.7%</li>
 </ul>
 
-<h3>DEV.TO Posts</h3>
+<h3>Blog Posts</h3>
 
 <ul>
     <li><a href="https://dev.to/robert96/setup-a-jenkins-pipeline-for-your-altwalker-tests-200h">Setup a Jenkins CI/CD pipeline for  your AltWalker tests</a></li>
@@ -34,4 +34,4 @@
     <li><a href="https://dev.to/robert96/add-meta-tags-for-social-media-with-htmlwebpackplugin-21h2">Add meta tags for social media with HtmlWebpackPlugin</a></li>
 </ul>
 
-<p><strong>Updated</strong>: <i>June 04, 2022 17:04:02</i></p>
+<p><strong>Updated</strong>: <i>June 04, 2022 17:17:22</i></p>
