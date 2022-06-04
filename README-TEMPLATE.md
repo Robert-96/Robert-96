@@ -22,7 +22,7 @@
 </ul>
 
 {% if DEVTO %}
-<h3>DEV.TO Posts</h3>
+<h3>Blog Posts</h3>
 
 <ul>
 {% for post in DEVTO %}
