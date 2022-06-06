@@ -29,9 +29,9 @@
 <h3>Blog Posts</h3>
 
 <ul>
-    <li><a href="https://dev.to/robert96/setup-a-jenkins-pipeline-for-your-altwalker-tests-200h">Setup a Jenkins CI/CD pipeline for  your AltWalker tests</a></li>
+    <li><a href="https://dev.to/robert96/setup-a-jenkins-pipeline-for-your-altwalker-tests-200h">Setup a Jenkins CI/CD pipeline for your AltWalker tests</a></li>
     <li><a href="https://dev.to/robert96/cli-tools-from-the-python3-standard-library-37em">CLI tools from the Python3 Standard Library</a></li>
     <li><a href="https://dev.to/robert96/add-meta-tags-for-social-media-with-htmlwebpackplugin-21h2">Add meta tags for social media with HtmlWebpackPlugin</a></li>
 </ul>
 
-<p><strong>Updated</strong>: <i>June 04, 2022 20:28:54</i></p>
+<p><strong>Updated</strong>: <i>June 06, 2022 12:44:00</i></p>
