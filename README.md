@@ -40,18 +40,15 @@
     <li><a href="https://dev.to/robert96/add-meta-tags-for-social-media-with-htmlwebpackplugin-21h2">Add meta tags for social media with HtmlWebpackPlugin</a></li>
 </ul>
 
+----
 
-<p>Where would you like to find me?</p>
+<h3>Where would you like to find me?</h3>
 
 <p>
-        <span> • </span>
-
-    <span><a href="https://twitter.com/dezmereanrobert">Twitter</a></span>
-        <span> • </span>
-
-    <span><a href="https://www.linkedin.com/in/robert-dezmerean">LinkedIn</a></span>
+<a href="https://twitter.com/dezmereanrobert">Twitter</a>
+<span> • <span><a href="https://www.linkedin.com/in/robert-dezmerean">LinkedIn</a>
 </p>
 
------
+----
 
-<p><strong>Updated</strong>: <i>June 13, 2022 14:18:58</i></p>
+<p><strong>Updated</strong>: <em>June 13, 2022 14:57:43</em></p>
