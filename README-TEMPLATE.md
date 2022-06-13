@@ -1,16 +1,18 @@
-<h2>Hi there 👋</h2>
+<h2>Greetings, traveler! 👋</h2>
 
 <!-- This is just the base template, feel free to change it. -->
 
 <p>
-    I'm a Softwere Developer based in <i>{{ USER.location }}</i>
+    I'm a <strong>Software Developer</strong> based in <i>{{ USER.location }}</i>
     and I'm on GitHub since {{ USER.created_at|datetimeformat('%Y') }}
     with <a href="https://github.com/{{ USER.login|urlencode }}?tab=repositories">{{ USER.public_repos }} public repositories</a>
     and <a href="https://github.com/{{ USER.login|urlencode }}?tab=followers">{{ USER.followers }} followers</a>.
 </p>
 
+<p>I'm a big fan of open source. My work is focused on developing tools that helps developers and testers be more productive.</p>
+
 <p>
-    I made <a href="https://gitlab.com/altom/altwalker/altwalker">AltWalker</a> - an open source Model-Based Testing framework that supports running tests written in python3 and .NET/C#.
+    I made <strong><a href="https://gitlab.com/altom/altwalker/altwalker">AltWalker</a></strong> - an open source Model-Based Testing framework that supports running tests written in python3 and .NET/C#.
 </p>
 
 <h3>Most Used Languages</h3>
