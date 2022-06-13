@@ -6,7 +6,7 @@
     I'm a <strong>Software Developer</strong> based in <em>Cluj, Cluj-Napoca</em>
     and I'm on GitHub since 2014
     with <a href="https://github.com/Robert-96?tab=repositories">37 public repositories</a>
-    and <a href="https://github.com/Robert-96?tab=followers">7 followers</a>.
+    and <a href="https://github.com/Robert-96?tab=followers">8 followers</a>.
 </p>
 
 <p>I'm a big fan of open source. My work is focused on developing tools that helps developers and testers be more productive.</p>
@@ -40,4 +40,4 @@
     <li><a href="https://dev.to/robert96/add-meta-tags-for-social-media-with-htmlwebpackplugin-21h2">Add meta tags for social media with HtmlWebpackPlugin</a></li>
 </ul>
 
-<p><strong>Updated</strong>: <i>June 13, 2022 00:34:09</i></p>
+<p><strong>Updated</strong>: <i>June 13, 2022 12:42:20</i></p>
