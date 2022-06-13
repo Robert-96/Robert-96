@@ -39,7 +39,7 @@
 
 ----
 
-<h3>Where would you like to find me?</h3>
+<h4>Where would you like to find me?</h4>
 
 <p>
 {% for title, url in social.items() %}
