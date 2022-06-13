@@ -3,7 +3,7 @@
 <!-- This is just the base template, feel free to change it. -->
 
 <p>
-    I'm a <strong>Software Developer</strong> based in <i>Cluj, Cluj-Napoca</i>
+    I'm a <strong>Software Developer</strong> based in <em>Cluj, Cluj-Napoca</em>
     and I'm on GitHub since 2014
     with <a href="https://github.com/Robert-96?tab=repositories">37 public repositories</a>
     and <a href="https://github.com/Robert-96?tab=followers">7 followers</a>.
@@ -13,6 +13,10 @@
 
 <p>
     I made <strong><a href="https://gitlab.com/altom/altwalker/altwalker">AltWalker</a></strong> - an open source Model-Based Testing framework that supports running tests written in python3 and .NET/C#.
+</p>
+
+<p>
+    When I'm not coding, I love drawing, reading and cooking.
 </p>
 
 <h3>Most Used Languages</h3>
@@ -36,4 +40,4 @@
     <li><a href="https://dev.to/robert96/add-meta-tags-for-social-media-with-htmlwebpackplugin-21h2">Add meta tags for social media with HtmlWebpackPlugin</a></li>
 </ul>
 
-<p><strong>Updated</strong>: <i>June 13, 2022 00:08:51</i></p>
+<p><strong>Updated</strong>: <i>June 13, 2022 00:34:09</i></p>
