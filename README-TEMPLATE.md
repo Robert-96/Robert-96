@@ -43,7 +43,7 @@
 
 <p>
 {% for title, url in social.items() %}
-    {% if loop.index is ne(1) %}<span> • <span>{% endif %}<a href="{{ url }}">{{ title }}</a>
+    {% if loop.index is ne(1) %}<span> <strong>•</strong> <span>{% endif %}<a href="{{ url }}">{{ title }}</a>
 {% endfor %}
 </p>
 
