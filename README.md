@@ -42,7 +42,7 @@
 
 ----
 
-<h4>Where would you like to find me?</h4>
+<h4>Where you can to find me?</h4>
 
 <p>
 <a href="https://twitter.com/dezmereanrobert">Twitter</a>
@@ -51,4 +51,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>June 13, 2022 14:59:02</em></p>
+<p><strong>Updated</strong>: <em>June 13, 2022 15:49:21</em></p>
