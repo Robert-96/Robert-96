@@ -41,8 +41,8 @@
 <p>Where would you like to find me?</p>
 
 <p>
-{% for index, (key, value) in enumerate(social.items()) %}
-    {% if index != 0 %}
+{% for key, value in social.items() %}
+    {% if loop.index != 0 %}
         <span> • </span>
     {% endif %}
 
