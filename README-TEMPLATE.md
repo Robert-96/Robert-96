@@ -41,12 +41,12 @@
 <p>Where would you like to find me?</p>
 
 <p>
-{% for key, value in social.items() %}
+{% for title, url in social.items() %}
     {% if loop.index != 0 %}
         <span> • </span>
     {% endif %}
 
-    <span><a href="{{ post.url }}">{{ post.title }}</a></span>
+    <span><a href="{{ url }}">{{ title }}</a></span>
 {% endfor %}
 </p>
 
