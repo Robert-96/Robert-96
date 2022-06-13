@@ -37,19 +37,16 @@
 </ul>
 {% endif %}
 
+----
 
-<p>Where would you like to find me?</p>
+<h3>Where would you like to find me?</h3>
 
 <p>
 {% for title, url in social.items() %}
-    {% if loop.index != 0 %}
-        <span> • </span>
-    {% endif %}
-
-    <span><a href="{{ url }}">{{ title }}</a></span>
+    {% if loop.index is ne(1) %}<span> • <span>{% endif %}<a href="{{ url }}">{{ title }}</a>
 {% endfor %}
 </p>
 
------
+----
 
-<p><strong>Updated</strong>: <i>{{ TIME_STAMP|datetimeformat }}</i></p>
+<p><strong>Updated</strong>: <em>{{ TIME_STAMP|datetimeformat }}</em></p>
