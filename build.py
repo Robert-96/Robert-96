@@ -26,6 +26,10 @@ if __name__ == "__main__":
 
     context = get_github_context(user)
     context["DEVTO"] = get_devto_posts(devto_user)
+    context["social"] = {
+        "Twitter": "https://twitter.com/dezmereanrobert",
+        "LinkedIn": "https://www.linkedin.com/in/robert-dezmerean"
+    }
     filters = {}
 
     ProfileGenerator.render(

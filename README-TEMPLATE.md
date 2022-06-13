@@ -37,4 +37,19 @@
 </ul>
 {% endif %}
 
+
+<p>Where would you like to find me?</p>
+
+<p>
+{% for index, (key, value) in enumerate(social.items()) %}
+    {% if index != 0 %}
+        <span> • </span>
+    {% endif %}
+
+    <span><a href="{{ post.url }}">{{ post.title }}</a></span>
+{% endfor %}
+</p>
+
+-----
+
 <p><strong>Updated</strong>: <i>{{ TIME_STAMP|datetimeformat }}</i></p>
