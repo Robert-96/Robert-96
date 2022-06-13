@@ -3,7 +3,7 @@
 <!-- This is just the base template, feel free to change it. -->
 
 <p>
-    I'm a <strong>Software Developer</strong> based in <i>{{ USER.location }}</i>
+    I'm a <strong>Software Developer</strong> based in <em>{{ USER.location }}</em>
     and I'm on GitHub since {{ USER.created_at|datetimeformat('%Y') }}
     with <a href="https://github.com/{{ USER.login|urlencode }}?tab=repositories">{{ USER.public_repos }} public repositories</a>
     and <a href="https://github.com/{{ USER.login|urlencode }}?tab=followers">{{ USER.followers }} followers</a>.
@@ -13,6 +13,10 @@
 
 <p>
     I made <strong><a href="https://gitlab.com/altom/altwalker/altwalker">AltWalker</a></strong> - an open source Model-Based Testing framework that supports running tests written in python3 and .NET/C#.
+</p>
+
+<p>
+    When I'm not coding, I love drawing, reading and cooking.
 </p>
 
 <h3>Most Used Languages</h3>
