@@ -28,8 +28,10 @@ if __name__ == "__main__":
     context["DEVTO"] = get_devto_posts(devto_user)
     context["social"] = {
         "Twitter": "https://twitter.com/dezmereanrobert",
-        "LinkedIn": "https://www.linkedin.com/in/robert-dezmerean"
+        "LinkedIn": "https://www.linkedin.com/in/robert-dezmerean",
+        "DEV.to": "https://dev.to/robert96"
     }
+
     filters = {}
 
     ProfileGenerator.render(
