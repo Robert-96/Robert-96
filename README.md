@@ -6,7 +6,7 @@
     I'm a <strong>Software Developer</strong> based in <em>Cluj, Cluj-Napoca</em>
     and I'm on GitHub since 2014
     with <a href="https://github.com/Robert-96?tab=repositories">37 public repositories</a>
-    and <a href="https://github.com/Robert-96?tab=followers">8 followers</a>.
+    and <a href="https://github.com/Robert-96?tab=followers">7 followers</a>.
 </p>
 
 <p>I'm a big fan of open source. My work is focused on developing tools that helps developers and testers be more productive.</p>
@@ -52,4 +52,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>June 25, 2022 22:18:36</em></p>
+<p><strong>Updated</strong>: <em>June 27, 2022 12:45:01</em></p>
