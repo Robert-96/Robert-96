@@ -4,9 +4,7 @@
 
 <p>
     I'm a <strong>Software Developer</strong> based in <em>Cluj, Cluj-Napoca</em>
-    and I'm on GitHub since 2014
-    with <a href="https://github.com/Robert-96?tab=repositories">37 public repositories</a>
-    and <a href="https://github.com/Robert-96?tab=followers">7 followers</a>.
+    and I'm on GitHub since 2014.
 </p>
 
 <p>I'm a big fan of open source. My work is focused on developing tools that helps developers and testers be more productive.</p>
@@ -35,7 +33,8 @@
 <h3>Blog Posts</h3>
 
 <ul>
-    <li><a href="https://dev.to/robert96/setup-a-jenkins-pipeline-for-your-altwalker-tests-200h">Setup a Jenkins CI/CD pipeline for your AltWalker tests</a></li>
+    <li><a href="https://dev.to/robert96/get-url-parameters-with-javascript-1ah6">Get URL Parameters with JavaScript</a></li>
+    <li><a href="https://dev.to/robert96/setup-a-jenkins-pipeline-for-your-altwalker-tests-200h">Setup a Jenkins CI/CD pipeline for AltWalker</a></li>
     <li><a href="https://dev.to/robert96/cli-tools-from-the-python3-standard-library-37em">CLI tools from the Python3 Standard Library</a></li>
     <li><a href="https://dev.to/robert96/add-meta-tags-for-social-media-with-htmlwebpackplugin-21h2">Add meta tags for social media with HtmlWebpackPlugin</a></li>
 </ul>
@@ -52,4 +51,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>June 27, 2022 12:45:01</em></p>
+<p><strong>Updated</strong>: <em>June 28, 2022 09:30:59</em></p>
