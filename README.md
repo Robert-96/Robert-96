@@ -33,6 +33,7 @@
 <h3>Blog Posts</h3>
 
 <ul>
+    <li><a href="https://dev.to/robert96/emberjs-installing-tailwind-css-386i">Ember.js: Installing Tailwind CSS</a></li>
     <li><a href="https://dev.to/robert96/get-url-parameters-with-javascript-1ah6">Get URL Parameters with JavaScript</a></li>
     <li><a href="https://dev.to/robert96/setup-a-jenkins-pipeline-for-your-altwalker-tests-200h">Setup a Jenkins CI/CD pipeline for AltWalker</a></li>
     <li><a href="https://dev.to/robert96/cli-tools-from-the-python3-standard-library-37em">CLI tools from the Python3 Standard Library</a></li>
@@ -51,4 +52,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>June 28, 2022 09:30:59</em></p>
+<p><strong>Updated</strong>: <em>July 04, 2022 12:43:59</em></p>
