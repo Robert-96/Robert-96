@@ -29,7 +29,8 @@ if __name__ == "__main__":
     context["social"] = {
         "Twitter": "https://twitter.com/dezmereanrobert",
         "LinkedIn": "https://www.linkedin.com/in/robert-dezmerean",
-        "DEV.to": "https://dev.to/robert96"
+        "DEV.to": "https://dev.to/robert96",
+        "Resume": "https://resume.dezmereanrobert.com"
     }
 
     filters = {}
