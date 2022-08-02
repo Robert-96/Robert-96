@@ -48,8 +48,9 @@
 <a href="https://twitter.com/dezmereanrobert">Twitter</a>
 <span> <strong>•</strong> <span><a href="https://www.linkedin.com/in/robert-dezmerean">LinkedIn</a>
 <span> <strong>•</strong> <span><a href="https://dev.to/robert96">DEV.to</a>
+<span> <strong>•</strong> <span><a href="https://resume.dezmereanrobert.com">Resume</a>
 </p>
 
 ----
 
-<p><strong>Updated</strong>: <em>August 01, 2022 12:47:27</em></p>
+<p><strong>Updated</strong>: <em>August 02, 2022 16:21:38</em></p>
