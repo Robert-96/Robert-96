@@ -7,7 +7,7 @@
     and I'm on GitHub since {{ USER.created_at|datetimeformat('%Y') }}.
 </p>
 
-<p>I'm a big fan of open source. My work is focused on developing tools that helps developers and testers be more productive.</p>
+<p>I'm a big fan of open source. My work is focused on developing tools that help developers and testers be more productive.</p>
 
 <p>
     I made <strong><a href="https://gitlab.com/altom/altwalker/altwalker">AltWalker</a></strong> - an open source Model-Based Testing framework that supports running tests written in python3 and .NET/C#.
