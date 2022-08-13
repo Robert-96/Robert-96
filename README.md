@@ -49,8 +49,9 @@
 <span> <strong>•</strong> <span><a href="https://www.linkedin.com/in/robert-dezmerean">LinkedIn</a>
 <span> <strong>•</strong> <span><a href="https://dev.to/robert96">DEV.to</a>
 <span> <strong>•</strong> <span><a href="https://resume.dezmereanrobert.com">Resume</a>
+<span> <strong>•</strong> <span><a href="https://www.dezmereanrobert.com">Blog</a>
 </p>
 
 ----
 
-<p><strong>Updated</strong>: <em>August 08, 2022 18:55:38</em></p>
+<p><strong>Updated</strong>: <em>August 13, 2022 14:30:22</em></p>
