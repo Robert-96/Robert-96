@@ -30,7 +30,8 @@ if __name__ == "__main__":
         "Twitter": "https://twitter.com/dezmereanrobert",
         "LinkedIn": "https://www.linkedin.com/in/robert-dezmerean",
         "DEV.to": "https://dev.to/robert96",
-        "Resume": "https://resume.dezmereanrobert.com"
+        "Resume": "https://resume.dezmereanrobert.com",
+        "Blog": "https://www.dezmereanrobert.com"
     }
 
     filters = {}
