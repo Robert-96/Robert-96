@@ -7,7 +7,7 @@
     and I'm on GitHub since 2014.
 </p>
 
-<p>I'm a big fan of open source. My work is focused on developing tools that helps developers and testers be more productive.</p>
+<p>I'm a big fan of open source. My work is focused on developing tools that help developers and testers be more productive.</p>
 
 <p>
     I made <strong><a href="https://gitlab.com/altom/altwalker/altwalker">AltWalker</a></strong> - an open source Model-Based Testing framework that supports running tests written in python3 and .NET/C#.
@@ -53,4 +53,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>August 08, 2022 12:44:45</em></p>
+<p><strong>Updated</strong>: <em>August 08, 2022 18:55:38</em></p>
