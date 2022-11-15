@@ -20,14 +20,15 @@
 <h3>Most Used Languages</h3>
 
 <ul>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Python">Python</a>: 33.33%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Shell">Shell</a>: 16.67%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=HTML">HTML</a>: 16.67%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=JavaScript">JavaScript</a>: 13.33%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=C%23">C#</a>: 6.67%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Dockerfile">Dockerfile</a>: 6.67%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Vim%20script">Vim script</a>: 3.33%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=CSS">CSS</a>: 3.33%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Python">Python</a>: 34.38%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Shell">Shell</a>: 15.62%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=HTML">HTML</a>: 15.62%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=JavaScript">JavaScript</a>: 12.5%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=C%23">C#</a>: 6.25%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Dockerfile">Dockerfile</a>: 6.25%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Vim%20script">Vim script</a>: 3.12%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Java">Java</a>: 3.12%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=CSS">CSS</a>: 3.12%</li>
 </ul>
 
 <h3>Blog Posts</h3>
@@ -54,4 +55,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>August 13, 2022 16:02:49</em></p>
+<p><strong>Updated</strong>: <em>November 14, 2022 12:33:43</em></p>
