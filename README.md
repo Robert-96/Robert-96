@@ -26,7 +26,7 @@
     <li><a href="https://github.com/search?q=user%3ARobert-96&l=JavaScript">JavaScript</a>: 12.5%</li>
     <li><a href="https://github.com/search?q=user%3ARobert-96&l=C%23">C#</a>: 6.25%</li>
     <li><a href="https://github.com/search?q=user%3ARobert-96&l=Dockerfile">Dockerfile</a>: 6.25%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Vim%20script">Vim script</a>: 3.12%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Vim%20Script">Vim Script</a>: 3.12%</li>
     <li><a href="https://github.com/search?q=user%3ARobert-96&l=Java">Java</a>: 3.12%</li>
     <li><a href="https://github.com/search?q=user%3ARobert-96&l=CSS">CSS</a>: 3.12%</li>
 </ul>
@@ -55,4 +55,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>November 28, 2022 12:25:22</em></p>
+<p><strong>Updated</strong>: <em>December 05, 2022 12:23:48</em></p>
