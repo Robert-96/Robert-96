@@ -20,15 +20,15 @@
 <h3>Most Used Languages</h3>
 
 <ul>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Python">Python</a>: 33.33%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=JavaScript">JavaScript</a>: 15.15%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Shell">Shell</a>: 15.15%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=HTML">HTML</a>: 15.15%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=C%23">C#</a>: 6.06%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Dockerfile">Dockerfile</a>: 6.06%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Vim%20Script">Vim Script</a>: 3.03%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=Java">Java</a>: 3.03%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96&l=CSS">CSS</a>: 3.03%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3APython&type=code">Python</a>: 33.33%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AJavaScript&type=code">JavaScript</a>: 15.15%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AShell&type=code">Shell</a>: 15.15%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AHTML&type=code">HTML</a>: 15.15%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AC%23&type=code">C#</a>: 6.06%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3ADockerfile&type=code">Dockerfile</a>: 6.06%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AVim%20Script&type=code">Vim Script</a>: 3.03%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AJava&type=code">Java</a>: 3.03%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3ACSS&type=code">CSS</a>: 3.03%</li>
 </ul>
 
 <h3>Blog Posts</h3>
@@ -55,4 +55,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>March 06, 2023 12:25:23</em></p>
+<p><strong>Updated</strong>: <em>March 06, 2023 16:41:39</em></p>
