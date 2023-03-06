@@ -21,7 +21,7 @@
 
 <ul>
 {% for language in TOP_LANGUAGES %}
-    <li><a href="https://github.com/search?q=user%3A{{ USER.login|urlencode }}&l={{ language.name|urlencode }}">{{ language.name }}</a>: {{ language.percentage }}%</li>
+    <li><a href="https://github.com/search?q=user%3A{{ USER.login|urlencode }}+lang%3A{{ language.name|urlencode }}&type=code">{{ language.name }}</a>: {{ language.percentage }}%</li>
 {% endfor %}
 </ul>
 
