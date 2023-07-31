@@ -1,3 +1,4 @@
+<!-- markdownlint-disable-next-line first-line-h1 -->
 <h2>Greetings, traveler! 👋</h2>
 
 <!-- This is just the base template, feel free to change it. -->
@@ -55,4 +56,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>July 31, 2023 21:02:31</em></p>
+<p><strong>Updated</strong>: <em>July 31, 2023 21:20:23</em></p>
