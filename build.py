@@ -27,8 +27,8 @@ def get_blog_posts():
 
 
 if __name__ == "__main__":
-    user = os.getenv("GITHUB_ACTOR", default='Robert-96')
-    devto_user = os.getenv("DEVTO_USER", default='robert96')
+    user = os.getenv("GITHUB_ACTOR", default="Robert-96")
+    devto_user = os.getenv("DEVTO_USER", default="robert96")
 
     context = get_github_context(user)
     context["POSTS"] = get_blog_posts()
@@ -41,7 +41,5 @@ if __name__ == "__main__":
     }
 
     ProfileGenerator.render(
-        template_path="README.jinja",
-        output_path="README.md",
-        context=context
+        template_path="README.jinja", output_path="README.md", context=context
     )
