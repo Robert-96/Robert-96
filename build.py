@@ -46,7 +46,7 @@ if __name__ == "__main__":
     filters = {}
 
     ProfileGenerator.render(
-        template_path="README-TEMPLATE.md",
+        template_path="README.jinja",
         output_path="README.md",
         context=context,
         filters=filters
