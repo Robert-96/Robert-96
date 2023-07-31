@@ -1,21 +1,18 @@
 import os
 
 import requests
-from profile_readme import get_github_context, ProfileGenerator
+from profile_readme import ProfileGenerator, get_github_context
 
 
 def get_devto_posts(user):
-    url = 'https://dev.to/api/articles?username={}'.format(user)
+    url = "https://dev.to/api/articles?username={}".format(user)
 
     response = requests.get(url)
     data = response.json()
     posts = []
 
     for post in data[:5]:
-        posts.append({
-            'title': post.get('title'),
-            'url': post.get('url')
-        })
+        posts.append({"title": post.get("title"), "url": post.get("url")})
 
     return posts
 
@@ -30,8 +27,8 @@ def get_blog_posts():
 
 
 if __name__ == "__main__":
-    user = os.getenv('GITHUB_ACTOR', default='Robert-96')
-    devto_user = os.getenv('DEVTO_USER', default='robert96')
+    user = os.getenv("GITHUB_ACTOR", default='Robert-96')
+    devto_user = os.getenv("DEVTO_USER", default='robert96')
 
     context = get_github_context(user)
     context["POSTS"] = get_blog_posts()
@@ -40,14 +37,11 @@ if __name__ == "__main__":
         "LinkedIn": "https://www.linkedin.com/in/robert-dezmerean",
         "DEV.to": "https://dev.to/robert96",
         "Resume": "https://resume.dezmereanrobert.com",
-        "Blog": "https://www.dezmereanrobert.com"
+        "Blog": "https://www.dezmereanrobert.com",
     }
-
-    filters = {}
 
     ProfileGenerator.render(
         template_path="README.jinja",
         output_path="README.md",
-        context=context,
-        filters=filters
+        context=context
     )
