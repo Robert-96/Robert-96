@@ -20,15 +20,15 @@
 <h3>Most Used Languages</h3>
 
 <ul>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3APython&type=code">Python</a>: 34.29%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AJavaScript&type=code">JavaScript</a>: 17.14%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AShell&type=code">Shell</a>: 14.29%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AHTML&type=code">HTML</a>: 14.29%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AC%23&type=code">C#</a>: 5.71%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3ADockerfile&type=code">Dockerfile</a>: 5.71%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AVim%20Script&type=code">Vim Script</a>: 2.86%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AJava&type=code">Java</a>: 2.86%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3ACSS&type=code">CSS</a>: 2.86%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3APython&type=code">Python</a>: 33.33%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AJavaScript&type=code">JavaScript</a>: 16.67%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AShell&type=code">Shell</a>: 13.89%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AHTML&type=code">HTML</a>: 13.89%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AC%23&type=code">C#</a>: 8.33%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3ADockerfile&type=code">Dockerfile</a>: 5.56%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AVim%20Script&type=code">Vim Script</a>: 2.78%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AJava&type=code">Java</a>: 2.78%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3ACSS&type=code">CSS</a>: 2.78%</li>
 </ul>
 
 <h3>Blog Posts</h3>
@@ -55,4 +55,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>July 24, 2023 12:22:03</em></p>
+<p><strong>Updated</strong>: <em>July 31, 2023 12:22:58</em></p>
