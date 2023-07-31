@@ -20,13 +20,22 @@ def get_devto_posts(user):
     return posts
 
 
+def get_blog_posts():
+    url = "https://www.dezmereanrobert.com/posts/index.json"
+
+    response = requests.get(url)
+    data = response.json()
+
+    return data["posts"]
+
+
 if __name__ == "__main__":
     user = os.getenv('GITHUB_ACTOR', default='Robert-96')
     devto_user = os.getenv('DEVTO_USER', default='robert96')
 
     context = get_github_context(user)
-    context["DEVTO"] = get_devto_posts(devto_user)
-    context["social"] = {
+    context["POSTS"] = get_blog_posts()
+    context["SOCIAL"] = {
         "Twitter": "https://twitter.com/dezmereanrobert",
         "LinkedIn": "https://www.linkedin.com/in/robert-dezmerean",
         "DEV.to": "https://dev.to/robert96",

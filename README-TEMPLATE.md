@@ -25,11 +25,11 @@
 {% endfor %}
 </ul>
 
-{% if DEVTO %}
+{% if POSTS %}
 <h3>Blog Posts</h3>
 
 <ul>
-{% for post in DEVTO %}
+{% for post in POSTS %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
@@ -40,7 +40,7 @@
 <h4>Where you can to find me?</h4>
 
 <p>
-{% for title, url in social.items() %}
+{% for title, url in SOCIAL.items() %}
     {% if loop.index is ne(1) %}<span> <strong>•</strong> <span>{% endif %}<a href="{{ url }}">{{ title }}</a>
 {% endfor %}
 </p>
