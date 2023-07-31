@@ -39,14 +39,6 @@
     <li><a href="http://www.dezmereanrobert.com/posts/github-actions-for-hugo/">GitHub Actions for Hugo</a></li>
     <li><a href="http://www.dezmereanrobert.com/posts/custom-gimp-color-palettes/">Add custom color palettes to GIMP and Inkscape</a></li>
     <li><a href="http://www.dezmereanrobert.com/posts/regex-cheat-sheet/">RegEx Cheat Sheet</a></li>
-    <li><a href="http://www.dezmereanrobert.com/posts/vim-cheat-sheet/">Vim Cheat Sheet</a></li>
-    <li><a href="http://www.dezmereanrobert.com/posts/python3-cli-tools/">CLI tools from the Python3 Standard Library</a></li>
-    <li><a href="http://www.dezmereanrobert.com/posts/docker-cheat-sheet/">Docker CLI Cheat Sheet</a></li>
-    <li><a href="http://www.dezmereanrobert.com/posts/jenkins-pipeline-for-altwalker/">Jenkins Pipeline for AltWalker</a></li>
-    <li><a href="http://www.dezmereanrobert.com/posts/meta-tags-with-html-webpack-plugin/">Meta Tags With HtmlWebpackPlugin</a></li>
-    <li><a href="http://www.dezmereanrobert.com/posts/get-url-parameters-with-javascript/">Get Url Parameters With Javascript</a></li>
-    <li><a href="http://www.dezmereanrobert.com/posts/build-a-markdown-component-with-showdown-for-ember/">Ember.js: Build a Markdown component with ShowdownJs</a></li>
-    <li><a href="http://www.dezmereanrobert.com/posts/setup-tailwind-with-ember/">Ember.js: Installing Tailwind CSS</a></li>
 </ul>
 
 ----
@@ -63,4 +55,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>July 31, 2023 20:52:31</em></p>
+<p><strong>Updated</strong>: <em>July 31, 2023 20:55:03</em></p>
