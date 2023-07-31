@@ -26,7 +26,7 @@ def get_blog_posts():
     response = requests.get(url)
     data = response.json()
 
-    return data["posts"]
+    return data["posts"][:5]
 
 
 if __name__ == "__main__":
