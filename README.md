@@ -35,11 +35,11 @@
 <h3>Blog Posts</h3>
 
 <ul>
+    <li><a href="http://www.dezmereanrobert.com/posts/arrange-act-and-assert-pattern/">Mastering the Arrange, Act, and Assert Pattern</a></li>
     <li><a href="http://www.dezmereanrobert.com/posts/github-actions-for-lighthouse/">Lighthouse CI for Static Sites with GitHub Actions</a></li>
     <li><a href="http://www.dezmereanrobert.com/posts/github-actions-for-altwalker/">GitHub Actions for Altwalker</a></li>
     <li><a href="http://www.dezmereanrobert.com/posts/github-actions-for-hugo/">GitHub Actions for Hugo</a></li>
     <li><a href="http://www.dezmereanrobert.com/posts/custom-gimp-color-palettes/">Add custom color palettes to GIMP and Inkscape</a></li>
-    <li><a href="http://www.dezmereanrobert.com/posts/regex-cheat-sheet/">RegEx Cheat Sheet</a></li>
 </ul>
 
 ----
@@ -56,4 +56,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>July 31, 2023 21:37:23</em></p>
+<p><strong>Updated</strong>: <em>August 07, 2023 12:21:34</em></p>
