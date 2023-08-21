@@ -35,11 +35,11 @@
 <h3>Blog Posts</h3>
 
 <ul>
+    <li><a href="http://www.dezmereanrobert.com/posts/github-style-note-blockquote-for-hugo/">Add Github Style Note Blockquote to Hugo using Shortcodes</a></li>
+    <li><a href="http://www.dezmereanrobert.com/posts/npm-scripts-and-npm-run-all/">Streamlining Your Development Workflow with `npm` Scripts and `npm-run-all`</a></li>
     <li><a href="http://www.dezmereanrobert.com/posts/arrange-act-and-assert-pattern/">Mastering the Arrange, Act, and Assert Pattern</a></li>
     <li><a href="http://www.dezmereanrobert.com/posts/github-actions-for-lighthouse/">Lighthouse CI for Static Sites with GitHub Actions</a></li>
     <li><a href="http://www.dezmereanrobert.com/posts/github-actions-for-altwalker/">GitHub Actions for Altwalker</a></li>
-    <li><a href="http://www.dezmereanrobert.com/posts/github-actions-for-hugo/">GitHub Actions for Hugo</a></li>
-    <li><a href="http://www.dezmereanrobert.com/posts/custom-gimp-color-palettes/">Add custom color palettes to GIMP and Inkscape</a></li>
 </ul>
 
 ----
@@ -56,4 +56,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>August 14, 2023 12:19:51</em></p>
+<p><strong>Updated</strong>: <em>August 21, 2023 12:20:15</em></p>
