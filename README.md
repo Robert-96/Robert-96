@@ -35,11 +35,11 @@
 <h3>Blog Posts</h3>
 
 <ul>
+    <li><a href="http://www.dezmereanrobert.com/posts/referential-transparency/">Functional Programming: What Is Referential Transparency?</a></li>
     <li><a href="http://www.dezmereanrobert.com/posts/github-style-note-blockquote-for-hugo/">Add Github Style Note Blockquote to Hugo using Shortcodes</a></li>
     <li><a href="http://www.dezmereanrobert.com/posts/npm-scripts-and-npm-run-all/">Streamlining Your Development Workflow with `npm` Scripts and `npm-run-all`</a></li>
     <li><a href="http://www.dezmereanrobert.com/posts/arrange-act-and-assert-pattern/">Mastering the Arrange, Act, and Assert Pattern</a></li>
     <li><a href="http://www.dezmereanrobert.com/posts/github-actions-for-lighthouse/">Lighthouse CI for Static Sites with GitHub Actions</a></li>
-    <li><a href="http://www.dezmereanrobert.com/posts/github-actions-for-altwalker/">GitHub Actions for Altwalker</a></li>
 </ul>
 
 ----
@@ -56,4 +56,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>October 09, 2023 12:23:02</em></p>
+<p><strong>Updated</strong>: <em>October 16, 2023 12:21:57</em></p>
