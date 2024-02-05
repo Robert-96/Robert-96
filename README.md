@@ -3,7 +3,7 @@
 
 <blockquote>
     <p>
-        <strong>TL;DR</strong>: I’m a Software Developer with <strong>6 years of experience</strong>, proficient in <stron>Python</strong> 
+        <strong>TL;DR</strong>: I’m a Software Developer with <strong>6 years of experience</strong>, proficient in <strong>Python</strong> 
         and <strong>JavaScript</strong>, specializing in <strong>Flask</strong> and <strong>Fast API</strong> for constructing 
         high-performance applications.
     </p>
@@ -13,8 +13,8 @@
 
 <p> 
     My name is <strong>Dezmerean Robert</strong>. I'm on GitHub since 2014. I am a problem 
-    solver at heart and a <strong>software developer<strong> with <strong>6 years of experience</strong>. With a strong background 
-    in <strong>Python</strong> and <strong>JavaScript<strong>, I specialize in building high-performance, scalable, and secure 
+    solver at heart and a <strong>software developer</strong> with <strong>6 years of experience</strong>. With a strong background 
+    in <strong>Python</strong> and <strong>JavaScript</strong>, I specialize in building high-performance, scalable, and secure 
     applications using modern web frameworks such as <strong>Flask</strong> and <strong>FAST API</strong>.
 </p>
 
@@ -73,4 +73,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>February 05, 2024 23:50:51</em></p>
+<p><strong>Updated</strong>: <em>February 05, 2024 23:52:56</em></p>
