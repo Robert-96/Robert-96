@@ -1,21 +1,38 @@
 <!-- markdownlint-disable-next-line first-line-h1 -->
 <h2>Greetings, traveler! 👋</h2>
 
-<!-- This is just the base template, feel free to change it. -->
+<blockquote>
+    <p>
+        <strong>TL;DR</strong>: I’m a Software Developer with <strong>6 years of experience</strong>, proficient in <stron>Python</strong> 
+        and <strong>JavaScript</strong>, specializing in <strong>Flask</strong> and <strong>Fast API</strong> for constructing 
+        high-performance applications.
+    </p>
+</blockquote>
 
-<p>
-    I'm a <strong>Software Developer</strong> based in <em>None</em>
-    and I'm on GitHub since 2014.
+<h3>Who am I?</h3> 
+
+<p> 
+    My name is <strong>Dezmerean Robert</strong>. I'm on GitHub since 2014. I am a problem 
+    solver at heart and a <strong>software developer<strong> with <strong>6 years of experience</strong>. With a strong background 
+    in <strong>Python</strong> and <strong>JavaScript<strong>, I specialize in building high-performance, scalable, and secure 
+    applications using modern web frameworks such as <strong>Flask</strong> and <strong>FAST API</strong>.
 </p>
 
-<p>I'm a big fan of open source. My work is focused on developing tools that help developers and testers be more productive.</p>
+<p>
+    I am passionate about staying up-to-date with the latest developments in the software industry and exploring new technologies to 
+    solve complex problems. In my free time, I enjoy <strong>contributing to open-source</strong> projects and <strong>sharing my 
+    knowledge</strong> with the developer community.
+</p>
+
+<h3>Where can you find my work?</h3>
 
 <p>
-    I made <strong><a href="https://github.com/altwalker">AltWalker</a></strong> - an open source Model-Based Testing framework that supports running tests written in python3 and .NET/C#.
+    My work is focused on developing tools that help developers and testers be more productive.
 </p>
 
 <p>
-    When I'm not coding, I love drawing, reading and cooking.
+    Right now I’m working on AltWalker and AltTester. Curious about my projects? Check out my projects page for a full list of all 
+    the software I’m currently working on or have previously worked on.
 </p>
 
 <h3>Most Used Languages</h3>
@@ -56,4 +73,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>February 05, 2024 12:19:53</em></p>
+<p><strong>Updated</strong>: <em>February 05, 2024 23:50:51</em></p>
