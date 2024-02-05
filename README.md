@@ -4,7 +4,7 @@
 <!-- This is just the base template, feel free to change it. -->
 
 <p>
-    I'm a <strong>Software Developer</strong> based in <em>Cluj, Cluj-Napoca</em>
+    I'm a <strong>Software Developer</strong> based in <em>None</em>
     and I'm on GitHub since 2014.
 </p>
 
@@ -56,4 +56,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>January 29, 2024 12:19:44</em></p>
+<p><strong>Updated</strong>: <em>February 05, 2024 12:19:53</em></p>
