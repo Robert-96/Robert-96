@@ -3,24 +3,24 @@
 
 <blockquote>
     <p>
-        <strong>TL;DR</strong>: I’m a Software Developer with <strong>6 years of experience</strong>, proficient in <strong>Python</strong> 
-        and <strong>JavaScript</strong>, specializing in <strong>Flask</strong> and <strong>Fast API</strong> for constructing 
+        <strong>TL;DR</strong>: I’m a Software Developer with <strong>6 years of experience</strong>, proficient in <strong>Python</strong>
+        and <strong>JavaScript</strong>, specializing in <strong>Flask</strong> and <strong>Fast API</strong> for constructing
         high-performance applications.
     </p>
 </blockquote>
 
-<h3>Who am I?</h3> 
+<h3>Who am I?</h3>
 
-<p> 
-    My name is <strong>Dezmerean Robert</strong>. I'm on GitHub since 2014. I am a problem 
-    solver at heart and a <strong>software developer</strong> with <strong>6 years of experience</strong>. With a strong background 
-    in <strong>Python</strong> and <strong>JavaScript</strong>, I specialize in building high-performance, scalable, and secure 
+<p>
+    My name is <strong>Dezmerean Robert</strong>. I'm on GitHub since 2014. I am a problem
+    solver at heart and a <strong>software developer</strong> with <strong>6 years of experience</strong>. With a strong background
+    in <strong>Python</strong> and <strong>JavaScript</strong>, I specialize in building high-performance, scalable, and secure
     applications using modern web frameworks such as <strong>Flask</strong> and <strong>FAST API</strong>.
 </p>
 
 <p>
-    I am passionate about staying up-to-date with the latest developments in the software industry and exploring new technologies to 
-    solve complex problems. In my free time, I enjoy <strong>contributing to open-source</strong> projects and <strong>sharing my 
+    I am passionate about staying up-to-date with the latest developments in the software industry and exploring new technologies to
+    solve complex problems. In my free time, I enjoy <strong>contributing to open-source</strong> projects and <strong>sharing my
     knowledge</strong> with the developer community.
 </p>
 
@@ -31,8 +31,8 @@
 </p>
 
 <p>
-    Right now I’m working on <a href="https://github.com/altwalker">AltWalker</a> and 
-    <a href="https://alttester.com/">AltTester</a>. Curious about my projects? Check out my <a href="http://localhost:1313/projects/">projects</a> 
+    Right now I’m working on <a href="https://github.com/altwalker">AltWalker</a> and
+    <a href="https://alttester.com/">AltTester</a>. Curious about my projects? Check out my <a href="http://localhost:1313/projects/">projects</a>
     page for a full list of all the software I’m currently working on or have previously worked on.
 </p>
 
@@ -74,4 +74,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>February 06, 2024 00:04:37</em></p>
+<p><strong>Updated</strong>: <em>February 06, 2024 00:07:30</em></p>
