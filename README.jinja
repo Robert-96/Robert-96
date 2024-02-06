@@ -31,8 +31,9 @@
 </p>
 
 <p>
-    Right now I’m working on AltWalker and AltTester. Curious about my projects? Check out my projects page for a full list of all 
-    the software I’m currently working on or have previously worked on.
+    Right now I’m working on <a href="https://dezmereanrobert.com/projects/altwalker/">AltWalker</a> and 
+    <a href="https://alttester.com/">AltTester</a>. Curious about my projects? Check out my <a href="http://localhost:1313/projects/">projects</a> 
+    page for a full list of all the software I’m currently working on or have previously worked on.
 </p>
 
 <h3>Most Used Languages</h3>
