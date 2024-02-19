@@ -1,11 +1,15 @@
-name: Deploy
+name: Main
 
 on:
+  workflow_dispatch:
   push:
-    branches:
-      - main
   schedule:
     - cron: '0 12 * * 1'
+
+permissions: read-all
+
+env:
+  PYTHON_VERSION: 3.11
 
 jobs:
   lint:
@@ -14,23 +18,30 @@ jobs:
     steps:
       - name: Get the code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Load super-linter configuration
+        run: cat .github/super-linter.env >> "$GITHUB_ENV"
 
       - name: Lint code base
-        uses: super-linter/super-linter@v5
+        uses: super-linter/super-linter@v6
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   deploy:
     runs-on: ubuntu-latest
 
+    if: github.ref == 'refs/heads/main'
+
     steps:
       - name: Get the code
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.9
+      - name: Set up Python ${{ env.PYTHON_VERSION }}
         uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: ${{ env.PYTHON_VERSION }}
 
       - name: Install python dependencies
         run: |
