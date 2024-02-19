@@ -7,8 +7,8 @@ from profile_readme import ProfileGenerator, get_github_context
 
 
 def get_blog_posts():
-    """Fetches the latest 5 blog posts from my blog.""" 
-    
+    """Fetches the latest 5 blog posts from my blog."""
+
     url = "https://www.dezmereanrobert.com/posts/index.json"
 
     response = requests.get(url)
