@@ -1,9 +1,8 @@
-name: Deploy
+name: Main
 
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch: 
+  push: 
   schedule:
     - cron: '0 12 * * 1'
 
@@ -22,6 +21,8 @@ jobs:
 
   deploy:
     runs-on: ubuntu-latest
+
+    if: github.ref == 'refs/heads/main'
 
     steps:
       - name: Get the code
