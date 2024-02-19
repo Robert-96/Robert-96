@@ -39,14 +39,14 @@
 <h3>Most Used Languages</h3>
 
 <ul>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3APython&type=code">Python</a>: 35.14%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AJavaScript&type=code">JavaScript</a>: 18.92%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AShell&type=code">Shell</a>: 13.51%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AHTML&type=code">HTML</a>: 13.51%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AC%23&type=code">C#</a>: 8.11%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3ADockerfile&type=code">Dockerfile</a>: 5.41%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AVim%20Script&type=code">Vim Script</a>: 2.7%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AJava&type=code">Java</a>: 2.7%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3APython&type=code">Python</a>: 36.84%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AJavaScript&type=code">JavaScript</a>: 18.42%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AShell&type=code">Shell</a>: 13.16%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AHTML&type=code">HTML</a>: 13.16%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AC%23&type=code">C#</a>: 7.89%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3ADockerfile&type=code">Dockerfile</a>: 5.26%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AVim%20Script&type=code">Vim Script</a>: 2.63%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AJava&type=code">Java</a>: 2.63%</li>
 </ul>
 
 <h3>Blog Posts</h3>
@@ -73,4 +73,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>February 12, 2024 12:19:53</em></p>
+<p><strong>Updated</strong>: <em>February 19, 2024 12:20:07</em></p>
