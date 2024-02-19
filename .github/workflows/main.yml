@@ -6,6 +6,8 @@ on:
   schedule:
     - cron: '0 12 * * 1'
 
+permissions: read-all
+
 jobs:
   lint:
     runs-on: ubuntu-latest
