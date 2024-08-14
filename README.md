@@ -3,8 +3,8 @@
 
 <blockquote>
     <p>
-        <strong>TL;DR</strong>: I’m a Software Developer with <strong>6 years of experience</strong>, proficient in <strong>Python</strong>
-        and <strong>JavaScript</strong>, specializing in <strong>Flask</strong> and <strong>Fast API</strong> for constructing
+        <strong>TL;DR</strong>: I’m a Software Developer with <strong>6 years of experience</strong>, proficient in <strong>Python</strong>,
+        <strong>JavaScript</strong> and <strong>.NET</strong>, specializing in <strong>Flask</strong> and <strong>Fast API</strong> for constructing
         high-performance applications.
     </p>
 </blockquote>
@@ -73,4 +73,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>August 12, 2024 12:20:53</em></p>
+<p><strong>Updated</strong>: <em>August 14, 2024 22:54:36</em></p>
