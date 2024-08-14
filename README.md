@@ -14,7 +14,7 @@
 <p>
     My name is <strong>Dezmerean Robert</strong>. I'm on GitHub since 2014. I am a problem
     solver at heart and a <strong>software developer</strong> with <strong>6 years of experience</strong>. With a strong background
-    in <strong>Python</strong> and <strong>JavaScript</strong>, I specialize in building high-performance, scalable, and secure
+    in <strong>Python</strong>, <strong>JavaScript</strong> and <strong>.NET</strong>, I specialize in building high-performance, scalable, and secure
     applications using modern web frameworks such as <strong>Flask</strong> and <strong>FAST API</strong>.
 </p>
 
@@ -73,4 +73,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>August 14, 2024 22:54:36</em></p>
+<p><strong>Updated</strong>: <em>August 14, 2024 22:58:02</em></p>
