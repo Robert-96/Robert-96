@@ -32,7 +32,7 @@
 
 <p>
     Right now I’m working on <a href="https://github.com/altwalker"><strong>AltWalker</strong></a> and
-    <a href="https://alttester.com/"><strong>AltTester</strong></a>. Curious about my projects? Check out my <a href="http://localhost:1313/projects/">projects</a>
+    <a href="https://alttester.com/"><strong>AltTester</strong></a>. Curious about my projects? Check out my <a href="http://www.dezmereanrobert.com/projects/">projects</a>
     page for a full list of all the software I’m currently working on or have previously worked on.
 </p>
 
@@ -73,4 +73,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>August 14, 2024 22:58:02</em></p>
+<p><strong>Updated</strong>: <em>August 15, 2024 14:57:52</em></p>
