@@ -23,7 +23,7 @@ if __name__ == "__main__":
     context = get_github_context(user)
     context["POSTS"] = get_blog_posts()
     context["SOCIAL"] = {
-        "Twitter": "https://twitter.com/dezmereanrobert",
+        "Bluesky": "https://bsky.app/profile/robert-96.bsky.social",
         "LinkedIn": "https://www.linkedin.com/in/robert-dezmerean",
         "DEV.to": "https://dev.to/robert96",
         "Resume": "https://resume.dezmereanrobert.com",
