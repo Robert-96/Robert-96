@@ -65,7 +65,7 @@
 <h4>Where you can to find me?</h4>
 
 <p>
-<a href="https://twitter.com/dezmereanrobert">Twitter</a>
+<a href="https://bsky.app/profile/robert-96.bsky.social">Bluesky</a>
 <span> <strong>•</strong> <span><a href="https://www.linkedin.com/in/robert-dezmerean">LinkedIn</a>
 <span> <strong>•</strong> <span><a href="https://dev.to/robert96">DEV.to</a>
 <span> <strong>•</strong> <span><a href="https://resume.dezmereanrobert.com">Resume</a>
@@ -74,4 +74,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>January 20, 2025 12:21:30</em></p>
+<p><strong>Updated</strong>: <em>January 23, 2025 20:23:52</em></p>
