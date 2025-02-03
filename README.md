@@ -39,15 +39,15 @@
 <h3>Most Used Languages</h3>
 
 <ul>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3APython&type=code">Python</a>: 38.1%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AJavaScript&type=code">JavaScript</a>: 16.67%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AShell&type=code">Shell</a>: 11.9%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AHTML&type=code">HTML</a>: 11.9%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AC%23&type=code">C#</a>: 9.52%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3ADockerfile&type=code">Dockerfile</a>: 4.76%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AVim%20Script&type=code">Vim Script</a>: 2.38%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AJupyter%20Notebook&type=code">Jupyter Notebook</a>: 2.38%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AJava&type=code">Java</a>: 2.38%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3APython&type=code">Python</a>: 37.21%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AJavaScript&type=code">JavaScript</a>: 16.28%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AShell&type=code">Shell</a>: 11.63%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AHTML&type=code">HTML</a>: 11.63%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AC%23&type=code">C#</a>: 9.3%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3ADockerfile&type=code">Dockerfile</a>: 4.65%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AJupyter%20Notebook&type=code">Jupyter Notebook</a>: 4.65%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AVim%20Script&type=code">Vim Script</a>: 2.33%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AJava&type=code">Java</a>: 2.33%</li>
 </ul>
 
 <h3>Blog Posts</h3>
@@ -74,4 +74,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>January 27, 2025 12:21:47</em></p>
+<p><strong>Updated</strong>: <em>February 03, 2025 12:21:09</em></p>
