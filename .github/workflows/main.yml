@@ -6,7 +6,7 @@ on:
   schedule:
     - cron: '0 12 * * 1'
 
-permissions: read-all
+permissions: {}
 
 env:
   PYTHON_VERSION: 3.11
@@ -19,6 +19,7 @@ jobs:
       - name: Get the code
         uses: actions/checkout@v5
         with:
+          persist-credentials: false
           fetch-depth: 0
 
       - name: Load super-linter configuration
@@ -40,9 +41,11 @@ jobs:
     steps:
       - name: Get the code
         uses: actions/checkout@v5
+        with:
+          persist-credentials: false
 
       - name: Set up Python ${{ env.PYTHON_VERSION }}
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: ${{ env.PYTHON_VERSION }}
 
