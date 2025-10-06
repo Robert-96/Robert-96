@@ -3,7 +3,7 @@
 
 <blockquote>
     <p>
-        <strong>TL;DR</strong>: I’m a Software Developer with <strong>6 years of experience</strong>, proficient in <strong>Python</strong>,
+        <strong>TL;DR</strong>: I’m a Software Developer with <strong>7+ years of experience</strong>, proficient in <strong>Python</strong>,
         <strong>JavaScript</strong> and <strong>.NET</strong>, specializing in <strong>Flask</strong> and <strong>Fast API</strong> for constructing
         high-performance applications.
     </p>
@@ -13,7 +13,7 @@
 
 <p>
     My name is <strong>Dezmerean Robert</strong>. I'm on GitHub since 2014. I am a problem
-    solver at heart and a <strong>software developer</strong> with <strong>6 years of experience</strong>. With a strong background
+    solver at heart and a <strong>software developer</strong> with <strong>7 years of experience</strong>. With a strong background
     in <strong>Python</strong>, <strong>JavaScript</strong> and <strong>.NET</strong>, I specialize in building high-performance, scalable, and secure
     applications using modern web frameworks such as <strong>Flask</strong> and <strong>FAST API</strong>.
 </p>
@@ -31,8 +31,13 @@
 </p>
 
 <p>
-    Right now I’m working on <a href="https://github.com/altwalker"><strong>AltWalker</strong></a> and
-    <a href="https://alttester.com/"><strong>AltTester</strong></a>. Curious about my projects? Check out my <a href="http://www.dezmereanrobert.com/projects/">projects</a>
+    Currently at <strong>Microsoft</strong>, I'm building internal tools that enhance automation capabilities for <strong>Azure</strong> 
+    sovereign cloud deployments, creating data visualizations through Azure Data Explorer and PowerBI, 
+    and driving infrastructure-as-code adoption.
+</p>
+
+<p>
+    Curious about my projects? Check out my <a href="http://www.dezmereanrobert.com/projects/">projects</a>
     page for a full list of all the software I’m currently working on or have previously worked on.
 </p>
 
@@ -74,4 +79,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>October 06, 2025 17:36:04</em></p>
+<p><strong>Updated</strong>: <em>October 06, 2025 21:55:47</em></p>
