@@ -58,11 +58,11 @@
 <h3>Blog Posts</h3>
 
 <ul>
+    <li><a href="http://www.dezmereanrobert.com/posts/generate-link-to-kusto-query-with-python/">Generate Link to Kusto Query With Python</a></li>
+    <li><a href="http://www.dezmereanrobert.com/posts/generate-pdf-for-url-using-puppeteer/">How to Create PDFs from Web Pages with Puppeteer</a></li>
     <li><a href="http://www.dezmereanrobert.com/posts/app-insights-for-hugo/">Adding Azure Application Insights to Your Hugo Static Site</a></li>
     <li><a href="http://www.dezmereanrobert.com/posts/altwalker-release-0-4-0/">Exploring AltWalker 0.4.0: What's New?</a></li>
     <li><a href="http://www.dezmereanrobert.com/posts/referential-transparency/">Functional Programming: What Is Referential Transparency?</a></li>
-    <li><a href="http://www.dezmereanrobert.com/posts/github-style-note-blockquote-for-hugo/">Add Github Style Note Blockquote to Hugo using Shortcodes</a></li>
-    <li><a href="http://www.dezmereanrobert.com/posts/npm-scripts-and-npm-run-all/">Streamlining Your Development Workflow with `npm` Scripts and `npm-run-all`</a></li>
 </ul>
 
 ----
@@ -79,4 +79,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>October 27, 2025 12:27:16</em></p>
+<p><strong>Updated</strong>: <em>November 03, 2025 12:27:46</em></p>
