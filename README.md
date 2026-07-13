@@ -45,10 +45,10 @@
 
 <ul>
     <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3APython&type=code">Python</a>: 38.64%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AJavaScript&type=code">JavaScript</a>: 15.91%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AJavaScript&type=code">JavaScript</a>: 18.18%</li>
     <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AShell&type=code">Shell</a>: 11.36%</li>
-    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AHTML&type=code">HTML</a>: 11.36%</li>
     <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AC%23&type=code">C#</a>: 9.09%</li>
+    <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AHTML&type=code">HTML</a>: 9.09%</li>
     <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3ADockerfile&type=code">Dockerfile</a>: 4.55%</li>
     <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AJupyter%20Notebook&type=code">Jupyter Notebook</a>: 4.55%</li>
     <li><a href="https://github.com/search?q=user%3ARobert-96+lang%3AVim%20Script&type=code">Vim Script</a>: 2.27%</li>
@@ -79,4 +79,4 @@
 
 ----
 
-<p><strong>Updated</strong>: <em>July 06, 2026 15:15:35</em></p>
+<p><strong>Updated</strong>: <em>July 13, 2026 14:12:25</em></p>
